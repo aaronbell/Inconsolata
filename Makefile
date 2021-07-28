@@ -22,9 +22,9 @@ build.stamp: venv
 
 	. venv/bin/activate; python -m vttLib mergefile sources/vtt_hinting.ttx fonts/variable/Inconsolata[wdth,wght].ttf; python -m vttLib compile fonts/variable/Inconsolata[wdth,wght].ttf fonts/variable/Inconsolata[wdth,wght].ttf.fix --ship
 	mv fonts/variable/Inconsolata[wdth,wght].ttf.fix fonts/variable/Inconsolata[wdth,wght].ttf
-	gftools fix-gasp fonts/variable/Inconsolata[wdth,wght].ttf --autofix
+	. venv/bin/activate; gftools fix-gasp fonts/variable/Inconsolata[wdth,wght].ttf --autofix
 	mv fonts/variable/Inconsolata[wdth,wght].ttf.fix fonts/variable/Inconsolata[wdth,wght].ttf
-	gftools fix-hinting fonts/variable/Inconsolata[wdth,wght].ttf
+	. venv/bin/activate; gftools fix-hinting fonts/variable/Inconsolata[wdth,wght].ttf
 	mv fonts/variable/Inconsolata[wdth,wght].ttf.fix fonts/variable/Inconsolata[wdth,wght].ttf
 
 venv/touchfile: requirements.txt
