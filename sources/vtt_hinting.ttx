@@ -4,11 +4,12 @@
   <TSI1>
 
     <glyphProgram name=".notdef">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="A">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 6, 8, 114
@@ -22,10 +23,10 @@ SRP1[], 6
 IP[], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="AE">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -47,10 +48,10 @@ SRP1[], 14
 SHP[1], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="AEacute">
+
 /* VTTTalk Unicode 0x1fc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -60,10 +61,10 @@ OFFSET[R], 933, 0, 0
 SVTCA[Y]
 CALL[], 20, 1, 1, 1, 36, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Aacute">
+
 /* VTTTalk Unicode 0xc1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -73,10 +74,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 11, 7, 1, 1, 26, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Abreve">
+
 /* VTTTalk Unicode 0x102 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -86,10 +87,10 @@ OFFSET[R], 937, 0, 0
 SVTCA[Y]
 CALL[], 15, 7, 1, 1, 37, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Acircumflex">
+
 /* VTTTalk Unicode 0xc2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -99,10 +100,10 @@ OFFSET[R], 935, 0, 0
 SVTCA[Y]
 CALL[], 11, 7, 1, 1, 21, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Adieresis">
+
 /* VTTTalk Unicode 0xc4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -113,10 +114,10 @@ SVTCA[Y]
 CALL[], 11, 7, 1, 1, 54, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="Agrave">
+
 /* VTTTalk Unicode 0xc0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -126,10 +127,10 @@ OFFSET[R], 932, -14, 0
 SVTCA[Y]
 CALL[], 11, 7, 1, 1, 26, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Amacron">
+
 /* VTTTalk Unicode 0x100 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -139,10 +140,10 @@ OFFSET[R], 902, 0, 166
 SVTCA[Y]
 CALL[], 11, 7, 1, 1, 97, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Aogonek">
+
 /* VTTTalk Unicode 0x104 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -152,10 +153,10 @@ OFFSET[R], 912, 165, 0
 SVTCA[Y]
 CALL[], 21, 10, 0, 0, 0, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Aring">
+
 /* VTTTalk Unicode 0xc5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -166,10 +167,10 @@ SVTCA[Y]
 CALL[], 11, 7, 0, 0, -15, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="Aringacute">
+
 /* VTTTalk Unicode 0x1fa */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -183,10 +184,10 @@ SHC[2], 2
 SHC[2], 3
 CALL[], 39, 7, 1, 1, 198, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="Atilde">
+
 /* VTTTalk Unicode 0xc3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -196,10 +197,10 @@ OFFSET[R], 939, -1, 0
 SVTCA[Y]
 CALL[], 15, 7, 1, 1, 54, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="B">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -214,10 +215,10 @@ SRP2[], 33
 IP[], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="C">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 11, 3, 114
@@ -234,15 +235,15 @@ SRP1[], 37
 SHP[1], 38
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="CR">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="Cacute">
+
 /* VTTTalk Unicode 0x106 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -252,10 +253,10 @@ OFFSET[R], 933, 1, 0
 SVTCA[Y]
 CALL[], 42, 11, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ccaron">
+
 /* VTTTalk Unicode 0x10c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -265,10 +266,10 @@ OFFSET[R], 936, 20, 0
 SVTCA[Y]
 CALL[], 45, 11, 1, 1, 29, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ccedilla">
+
 /* VTTTalk Unicode 0xc7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -278,10 +279,10 @@ OFFSET[R], 911, 9, 0
 SVTCA[Y]
 CALL[], 57, 41, 0, 0, 10, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ccircumflex">
+
 /* VTTTalk Unicode 0x108 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -291,10 +292,10 @@ OFFSET[R], 935, 20, 0
 SVTCA[Y]
 CALL[], 42, 11, 1, 1, 27, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Cdotaccent">
+
 /* VTTTalk Unicode 0x10a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -304,10 +305,10 @@ OFFSET[R], 931, 19, 0
 SVTCA[Y]
 CALL[], 42, 11, 1, 1, 65, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="D">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -316,10 +317,10 @@ CALL[], 1, 2, 114
 SHP[2], 26
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Dcaron">
+
 /* VTTTalk Unicode 0x10e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -329,19 +330,19 @@ OFFSET[R], 936, -30, 0
 SVTCA[Y]
 CALL[], 30, 1, 1, 1, 34, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Dcroat">
+
 /* VTTTalk Unicode 0x110 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 37, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="E">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -354,10 +355,10 @@ MDAP[R], 8
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Eacute">
+
 /* VTTTalk Unicode 0xc9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -367,10 +368,10 @@ OFFSET[R], 933, -10, 0
 SVTCA[Y]
 CALL[], 12, 1, 1, 1, 36, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ebreve">
+
 /* VTTTalk Unicode 0x114 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -380,10 +381,10 @@ OFFSET[R], 937, 9, 0
 SVTCA[Y]
 CALL[], 16, 1, 1, 1, 47, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ecaron">
+
 /* VTTTalk Unicode 0x11a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -393,10 +394,10 @@ OFFSET[R], 936, 9, 0
 SVTCA[Y]
 CALL[], 15, 1, 1, 1, 33, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ecircumflex">
+
 /* VTTTalk Unicode 0xca */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -406,10 +407,10 @@ OFFSET[R], 935, 9, 0
 SVTCA[Y]
 CALL[], 12, 1, 1, 1, 31, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Edieresis">
+
 /* VTTTalk Unicode 0xcb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -420,10 +421,10 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 64, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Edotaccent">
+
 /* VTTTalk Unicode 0x116 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -433,10 +434,10 @@ OFFSET[R], 931, 8, 0
 SVTCA[Y]
 CALL[], 12, 1, 1, 1, 69, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Egrave">
+
 /* VTTTalk Unicode 0xc8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -446,10 +447,10 @@ OFFSET[R], 932, -5, 0
 SVTCA[Y]
 CALL[], 12, 1, 1, 1, 36, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Emacron">
+
 /* VTTTalk Unicode 0x112 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -459,10 +460,10 @@ OFFSET[R], 902, 9, 166
 SVTCA[Y]
 CALL[], 12, 1, 1, 1, 107, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Eng">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -475,10 +476,10 @@ SLOOP[], 3
 IP[], 22, 28, 23
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Eogonek">
+
 /* VTTTalk Unicode 0x118 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -488,10 +489,10 @@ OFFSET[R], 929, 0, 0
 SVTCA[Y]
 CALL[], 22, 0, 0, 0, 0, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Eth">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -508,10 +509,10 @@ SRP1[], 0
 SHP[1], 21
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Euro">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 13, 114
@@ -535,10 +536,10 @@ SRP1[], 14
 SHP[1], 34
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="F">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -550,10 +551,10 @@ MDAP[R], 8
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="G">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 10, 3, 114
@@ -570,10 +571,10 @@ MDAP[R], 42
 SHP[1], 43
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Gbreve">
+
 /* VTTTalk Unicode 0x11e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -583,10 +584,10 @@ OFFSET[R], 937, 24, 0
 SVTCA[Y]
 CALL[], 53, 10, 1, 1, 41, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Gcaron">
+
 /* VTTTalk Unicode 0x1e6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -596,10 +597,10 @@ OFFSET[R], 936, 24, 0
 SVTCA[Y]
 CALL[], 52, 10, 1, 1, 27, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Gcircumflex">
+
 /* VTTTalk Unicode 0x11c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -609,10 +610,10 @@ OFFSET[R], 935, 24, 0
 SVTCA[Y]
 CALL[], 49, 10, 1, 1, 25, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Gdotaccent">
+
 /* VTTTalk Unicode 0x120 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -622,10 +623,10 @@ OFFSET[R], 931, 23, 0
 SVTCA[Y]
 CALL[], 49, 10, 1, 1, 63, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="H">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 2, 114
@@ -638,10 +639,10 @@ MDAP[R], 19
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Hbar">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 2, 114
@@ -658,10 +659,10 @@ SRP1[], 11
 SHP[1], 23
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Hcircumflex">
+
 /* VTTTalk Unicode 0x124 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -671,10 +672,10 @@ OFFSET[R], 935, 0, 0
 SVTCA[Y]
 CALL[], 22, 0, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="I">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -687,10 +688,10 @@ SRP1[], 4
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Iacute">
+
 /* VTTTalk Unicode 0xcd */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -700,10 +701,10 @@ OFFSET[R], 933, -30, 0
 SVTCA[Y]
 CALL[], 12, 5, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ibreve">
+
 /* VTTTalk Unicode 0x12c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -713,10 +714,10 @@ OFFSET[R], 937, -11, 0
 SVTCA[Y]
 CALL[], 16, 5, 1, 1, 48, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Icircumflex">
+
 /* VTTTalk Unicode 0xce */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -726,10 +727,10 @@ OFFSET[R], 935, -11, 0
 SVTCA[Y]
 CALL[], 12, 5, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Idieresis">
+
 /* VTTTalk Unicode 0xcf */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -740,10 +741,10 @@ SVTCA[Y]
 CALL[], 12, 5, 1, 1, 65, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Idotaccent">
+
 /* VTTTalk Unicode 0x130 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -753,10 +754,10 @@ OFFSET[R], 931, -12, 0
 SVTCA[Y]
 CALL[], 12, 5, 1, 1, 70, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Igrave">
+
 /* VTTTalk Unicode 0xcc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -766,10 +767,10 @@ OFFSET[R], 932, -25, 0
 SVTCA[Y]
 CALL[], 12, 5, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Imacron">
+
 /* VTTTalk Unicode 0x12a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -779,10 +780,10 @@ OFFSET[R], 902, -11, 166
 SVTCA[Y]
 CALL[], 12, 5, 1, 1, 108, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Iogonek">
+
 /* VTTTalk Unicode 0x12e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -792,10 +793,10 @@ OFFSET[R], 912, 104, 0
 SVTCA[Y]
 CALL[], 22, 0, 0, 0, 0, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Itilde">
+
 /* VTTTalk Unicode 0x128 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -805,10 +806,10 @@ OFFSET[R], 949, -21, 36
 SVTCA[Y]
 CALL[], 16, 5, 1, 1, 117, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="J">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 19, 2, 114
@@ -819,10 +820,10 @@ CALL[], 28, 9, 114
 SHP[2], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Jcircumflex">
+
 /* VTTTalk Unicode 0x134 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -832,10 +833,10 @@ OFFSET[R], 935, 80, 0
 SVTCA[Y]
 CALL[], 29, 19, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="K">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 3, 8, 114
@@ -847,10 +848,10 @@ SLOOP[], 4
 IP[], 1, 0, 11, 19
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="L">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 2, 114
@@ -858,10 +859,10 @@ CALL[], 10, 8, 114
 SHP[2], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Lacute">
+
 /* VTTTalk Unicode 0x139 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -871,10 +872,10 @@ OFFSET[R], 933, -69, 0
 SVTCA[Y]
 CALL[], 11, 0, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Lcaron">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 11, 3, 114
@@ -884,10 +885,10 @@ CALL[], 28, 8, 114
 SHP[2], 25
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Ldot">
+
 /* VTTTalk Unicode 0x13f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -897,10 +898,10 @@ OFFSET[R], 547, 60, 0
 SVTCA[Y]
 CALL[], 17, 0, 2, 0, -235, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Lslash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -911,10 +912,10 @@ SLOOP[], 4
 IP[], 1, 19, 4, 13
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="M">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -926,10 +927,10 @@ SLOOP[], 4
 IP[], 10, 3, 11, 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="N">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 1, 2, 114
@@ -941,15 +942,15 @@ IP[], 2
 IP[], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="NULL">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="Nacute">
+
 /* VTTTalk Unicode 0x143 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -959,10 +960,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 15, 0, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ncaron">
+
 /* VTTTalk Unicode 0x147 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -972,10 +973,10 @@ OFFSET[R], 936, 0, 0
 SVTCA[Y]
 CALL[], 18, 3, 1, 1, 34, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ntilde">
+
 /* VTTTalk Unicode 0xd1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -985,10 +986,10 @@ OFFSET[R], 939, -1, 0
 SVTCA[Y]
 CALL[], 19, 3, 1, 1, 65, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="O">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 9, 114
@@ -997,10 +998,10 @@ CALL[], 8, 3, 114
 SHP[2], 24
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="OE">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 9, 114
@@ -1021,10 +1022,10 @@ CALL[], 24, 8, 114
 SHP[2], 21
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Oacute">
+
 /* VTTTalk Unicode 0xd3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1034,10 +1035,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 33, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Obreve">
+
 /* VTTTalk Unicode 0x14e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1047,10 +1048,10 @@ OFFSET[R], 937, 0, 0
 SVTCA[Y]
 CALL[], 36, 8, 1, 1, 44, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Ocircumflex">
+
 /* VTTTalk Unicode 0xd4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1060,10 +1061,10 @@ OFFSET[R], 935, 0, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 28, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Odieresis">
+
 /* VTTTalk Unicode 0xd6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1074,10 +1075,10 @@ SVTCA[Y]
 CALL[], 32, 8, 1, 1, 61, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="Ograve">
+
 /* VTTTalk Unicode 0xd2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1087,10 +1088,10 @@ OFFSET[R], 932, -14, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 33, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Ohorn">
+
 /* VTTTalk Unicode 0x1a0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1100,10 +1101,10 @@ OFFSET[R], 940, -29, -39
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, -92, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Ohungarumlaut">
+
 /* VTTTalk Unicode 0x150 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1114,10 +1115,10 @@ SVTCA[Y]
 CALL[], 32, 8, 1, 1, 18, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="Omacron">
+
 /* VTTTalk Unicode 0x14c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1127,10 +1128,10 @@ OFFSET[R], 902, 0, 166
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 104, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Oslash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 9, 114
@@ -1146,10 +1147,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Oslashacute">
+
 /* VTTTalk Unicode 0x1fe */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1159,10 +1160,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 36, 12, 1, 1, 33, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="Otilde">
+
 /* VTTTalk Unicode 0xd5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1172,10 +1173,10 @@ OFFSET[R], 939, -1, 0
 SVTCA[Y]
 CALL[], 36, 8, 1, 1, 61, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="P">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -1187,10 +1188,10 @@ MDAP[R], 12
 SHP[1], 14
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Q">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 RUTG[]
@@ -1203,10 +1204,10 @@ CALL[], 14, 3, 114
 SHP[2], 41
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="R">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -1221,10 +1222,10 @@ SRP2[], 16
 IP[], 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Racute">
+
 /* VTTTalk Unicode 0x154 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1234,10 +1235,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 26, 1, 1, 1, 37, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Rcaron">
+
 /* VTTTalk Unicode 0x158 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1247,10 +1248,10 @@ OFFSET[R], 936, 0, 0
 SVTCA[Y]
 CALL[], 29, 1, 1, 1, 34, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="S">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 31, 3, 114
@@ -1262,10 +1263,10 @@ IP[], 17
 IP[], 27
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Sacute">
+
 /* VTTTalk Unicode 0x15a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1275,10 +1276,10 @@ OFFSET[R], 933, -8, 0
 SVTCA[Y]
 CALL[], 65, 31, 1, 1, 29, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Scaron">
+
 /* VTTTalk Unicode 0x160 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1288,10 +1289,10 @@ OFFSET[R], 936, 11, 0
 SVTCA[Y]
 CALL[], 68, 31, 1, 1, 26, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Scedilla">
+
 /* VTTTalk Unicode 0x15e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1301,10 +1302,10 @@ OFFSET[R], 911, -24, 0
 SVTCA[Y]
 CALL[], 80, 64, 0, 0, 10, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Scircumflex">
+
 /* VTTTalk Unicode 0x15c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1314,10 +1315,10 @@ OFFSET[R], 935, 11, 0
 SVTCA[Y]
 CALL[], 65, 31, 1, 1, 24, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="T">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -1327,10 +1328,10 @@ SRP1[], 2
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Tbar">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 0, 8
@@ -1344,10 +1345,10 @@ MDAP[R], 8
 SHP[1], 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Tcaron">
+
 /* VTTTalk Unicode 0x164 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1357,10 +1358,10 @@ OFFSET[R], 936, 0, 0
 SVTCA[Y]
 CALL[], 11, 3, 1, 1, 33, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Thorn">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -1376,10 +1377,10 @@ SRP1[], 19
 SHP[1], 21
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="U">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 2, 114
@@ -1388,10 +1389,10 @@ CALL[], 24, 9, 114
 SHP[2], 14
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="U.i">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 2, 114
@@ -1400,10 +1401,10 @@ CALL[], 24, 9, 114
 SHP[2], 14
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Uacute">
+
 /* VTTTalk Unicode 0xda */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1413,10 +1414,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 25, 4, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ubreve">
+
 /* VTTTalk Unicode 0x16c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1426,10 +1427,10 @@ OFFSET[R], 937, 0, 0
 SVTCA[Y]
 CALL[], 29, 18, 1, 1, 48, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ucircumflex">
+
 /* VTTTalk Unicode 0xdb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1439,10 +1440,10 @@ OFFSET[R], 935, 0, 0
 SVTCA[Y]
 CALL[], 25, 4, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Udieresis">
+
 /* VTTTalk Unicode 0xdc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1453,10 +1454,10 @@ SVTCA[Y]
 CALL[], 25, 4, 1, 1, 65, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Ugrave">
+
 /* VTTTalk Unicode 0xd9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1466,10 +1467,10 @@ OFFSET[R], 932, -14, 0
 SVTCA[Y]
 CALL[], 25, 18, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Uhorn">
+
 /* VTTTalk Unicode 0x1af */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1482,10 +1483,10 @@ OFFSET[R], 940, 0, 0
 SVTCA[Y]
 CALL[], 25, 4, 1, 1, -49, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Uhungarumlaut">
+
 /* VTTTalk Unicode 0x170 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1496,10 +1497,10 @@ SVTCA[Y]
 CALL[], 25, 18, 1, 1, 22, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Umacron">
+
 /* VTTTalk Unicode 0x16a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1509,10 +1510,10 @@ OFFSET[R], 902, 0, 166
 SVTCA[Y]
 CALL[], 25, 4, 1, 1, 108, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Uogonek">
+
 /* VTTTalk Unicode 0x172 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1522,10 +1523,10 @@ OFFSET[R], 912, 53, 10
 SVTCA[Y]
 CALL[], 34, 24, 0, 0, 38, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Uring">
+
 /* VTTTalk Unicode 0x16e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1536,10 +1537,10 @@ SVTCA[Y]
 CALL[], 25, 18, 1, 0, -4, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Utilde">
+
 /* VTTTalk Unicode 0x168 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1549,10 +1550,10 @@ OFFSET[R], 939, -1, 0
 SVTCA[Y]
 CALL[], 29, 18, 1, 1, 65, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="V">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -1562,10 +1563,10 @@ SRP2[], 0
 IP[], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="W">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -1579,10 +1580,10 @@ SLOOP[], 3
 IP[], 6, 3, 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Wacute">
+
 /* VTTTalk Unicode 0x1e82 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1592,10 +1593,10 @@ OFFSET[R], 933, -9, 0
 SVTCA[Y]
 CALL[], 13, 1, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Wcircumflex">
+
 /* VTTTalk Unicode 0x174 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1605,10 +1606,10 @@ OFFSET[R], 935, 10, 0
 SVTCA[Y]
 CALL[], 13, 1, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Wdieresis">
+
 /* VTTTalk Unicode 0x1e84 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1619,10 +1620,10 @@ SVTCA[Y]
 CALL[], 13, 1, 1, 1, 65, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Wgrave">
+
 /* VTTTalk Unicode 0x1e80 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1632,10 +1633,10 @@ OFFSET[R], 932, -4, 0
 SVTCA[Y]
 CALL[], 13, 7, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="X">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -1648,10 +1649,10 @@ SLOOP[], 4
 IP[], 10, 1, 7, 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Y">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 0, 8
@@ -1663,10 +1664,10 @@ IP[], 7, 1, 4
 CALL[], 8, 8, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Yacute">
+
 /* VTTTalk Unicode 0xdd */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1676,10 +1677,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 9, 2, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ycircumflex">
+
 /* VTTTalk Unicode 0x176 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1689,10 +1690,10 @@ OFFSET[R], 935, 0, 0
 SVTCA[Y]
 CALL[], 9, 2, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Ydieresis">
+
 /* VTTTalk Unicode 0x178 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1703,10 +1704,10 @@ SVTCA[Y]
 CALL[], 9, 2, 1, 1, 65, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="Ygrave">
+
 /* VTTTalk Unicode 0x1ef2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1716,10 +1717,10 @@ OFFSET[R], 932, -14, 0
 SVTCA[Y]
 CALL[], 9, 5, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Z">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 3, 2, 114
@@ -1732,10 +1733,10 @@ SRP1[], 6
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="Zacute">
+
 /* VTTTalk Unicode 0x179 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1745,10 +1746,10 @@ OFFSET[R], 933, -9, 0
 SVTCA[Y]
 CALL[], 15, 3, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Zcaron">
+
 /* VTTTalk Unicode 0x17d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1758,10 +1759,10 @@ OFFSET[R], 936, 10, 0
 SVTCA[Y]
 CALL[], 18, 3, 1, 1, 34, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="Zdotaccent">
+
 /* VTTTalk Unicode 0x17b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1771,10 +1772,10 @@ OFFSET[R], 931, 9, 0
 SVTCA[Y]
 CALL[], 15, 3, 1, 1, 70, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="a">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -1793,10 +1794,10 @@ SHP[1], 12
 CALL[], 49, 10, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="aacute">
+
 /* VTTTalk Unicode 0xe1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1806,10 +1807,10 @@ OFFSET[R], 894, -11, 0
 SVTCA[Y]
 CALL[], 56, 43, 1, 1, 40, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="abreve">
+
 /* VTTTalk Unicode 0x103 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1819,10 +1820,10 @@ OFFSET[R], 899, -8, 0
 SVTCA[Y]
 CALL[], 60, 43, 1, 1, 71, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="acircumflex">
+
 /* VTTTalk Unicode 0xe2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1832,10 +1833,10 @@ OFFSET[R], 897, 0, 0
 SVTCA[Y]
 CALL[], 56, 43, 1, 1, 44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="acute">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -1845,10 +1846,10 @@ IP[], 1
 IP[], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="acute.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -1858,26 +1859,26 @@ IP[], 1
 IP[], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="acutecomb">
+
 /* VTTTalk Unicode 0x301 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 920, 0, -15
-
     </glyphProgram>
 
     <glyphProgram name="acutecomb.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 944, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="adieresis">
+
 /* VTTTalk Unicode 0xe4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1888,10 +1889,10 @@ SVTCA[Y]
 CALL[], 56, 43, 1, 1, 97, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ae">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -1920,10 +1921,10 @@ SRP1[], 68
 SHP[1], 69
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="aeacute">
+
 /* VTTTalk Unicode 0x1fd */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1933,10 +1934,10 @@ OFFSET[R], 894, 0, 0
 SVTCA[Y]
 CALL[], 77, 20, 1, 1, 40, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="agrave">
+
 /* VTTTalk Unicode 0xe0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1946,10 +1947,10 @@ OFFSET[R], 893, -11, 0
 SVTCA[Y]
 CALL[], 56, 43, 1, 1, 40, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="amacron">
+
 /* VTTTalk Unicode 0x101 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1959,10 +1960,10 @@ OFFSET[R], 902, 0, 0
 SVTCA[Y]
 CALL[], 56, 43, 1, 1, 98, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ampersand">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 0, 9
@@ -1976,10 +1977,10 @@ SLOOP[], 8
 IP[], 1, 51, 45, 32, 52, 31, 14, 62
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="aogonek">
+
 /* VTTTalk Unicode 0x105 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -1989,10 +1990,10 @@ OFFSET[R], 929, 0, 0
 SVTCA[Y]
 CALL[], 66, 50, 0, 0, 0, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="approxequal">
+
 /* VTTTalk Unicode 0x2248 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2000,10 +2001,10 @@ USEMYMETRICS[]
 OFFSET[R], 633, 0, 90
 USEMYMETRICS[]
 OFFSET[R], 633, 0, -80
-
     </glyphProgram>
 
     <glyphProgram name="aring">
+
 /* VTTTalk Unicode 0xe5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2014,10 +2015,10 @@ SVTCA[Y]
 CALL[], 56, 43, 1, 1, 50, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="aringacute">
+
 /* VTTTalk Unicode 0x1fb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2031,10 +2032,10 @@ SHC[2], 1
 SHC[2], 2
 CALL[], 84, 64, 1, 1, 50, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="arrowboth">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 6, 18
@@ -2059,10 +2060,10 @@ SRP1[], 15
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="arrowdown">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2079,10 +2080,10 @@ SRP1[], 9
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="arrowleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -2098,10 +2099,10 @@ SRP1[], 3
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="arrowright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -2117,10 +2118,10 @@ SRP1[], 7
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="arrowup">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -2137,10 +2138,10 @@ SHP[1], 6
 MDAP[R], 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="arrowupdn">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -2150,10 +2151,10 @@ SLOOP[], 4
 IP[], 14, 5, 6, 13
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="asciicircum">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2166,18 +2167,18 @@ SRP2[], 0
 IP[], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="asciicircum.ss01">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 635, 2, 30
-
     </glyphProgram>
 
     <glyphProgram name="asciitilde">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 0, 18
@@ -2193,19 +2194,19 @@ SRP1[], 21
 SHP[1], 22
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="asciitilde.ss01">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 633, 0, 200
-
     </glyphProgram>
 
     <glyphProgram name="asterisk">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 6
@@ -2217,10 +2218,10 @@ SLOOP[], 9
 IP[], 2, 5, 8, 14, 11, 3, 4, 10, 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="asterisk.ss01">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 6, 2, 114
@@ -2231,10 +2232,10 @@ SLOOP[], 9
 IP[], 2, 5, 8, 14, 11, 3, 4, 10, 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="asteriskmath">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 6
@@ -2246,10 +2247,10 @@ SLOOP[], 9
 IP[], 2, 5, 8, 14, 11, 3, 4, 10, 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="at">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 9, 114
@@ -2270,10 +2271,10 @@ SRP1[], 30
 SHP[1], 56
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="atilde">
+
 /* VTTTalk Unicode 0xe3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2283,10 +2284,10 @@ OFFSET[R], 901, -10, 0
 SVTCA[Y]
 CALL[], 60, 43, 1, 1, 107, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="b">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 6, 10, 114
@@ -2301,10 +2302,10 @@ SRP1[], 49
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="backslash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2313,20 +2314,20 @@ MDAP[R], 2
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="bar">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 CALL[], 1, 3, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="braceleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2340,10 +2341,10 @@ SRP2[], 11
 IP[], 32
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="braceright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -2358,10 +2359,10 @@ SRP2[], 32
 IP[], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="bracketleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2370,10 +2371,10 @@ MDAP[R], 1
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="bracketright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -2382,10 +2383,10 @@ MDAP[R], 6
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="breve">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2398,18 +2399,18 @@ SRP1[], 10
 SHP[1], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="breve.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 899, -4, 123
-
     </glyphProgram>
 
     <glyphProgram name="brokenbar">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 1, 3, 114
@@ -2418,20 +2419,20 @@ MDAP[R], 4
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="bullet">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="c">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 40, 11, 114
@@ -2441,10 +2442,10 @@ SRP1[], 40
 SHP[1], 32
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="cacute">
+
 /* VTTTalk Unicode 0x107 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2454,10 +2455,10 @@ OFFSET[R], 894, 25, 0
 SVTCA[Y]
 CALL[], 41, 10, 1, 1, 41, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="caron">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2469,10 +2470,10 @@ SRP1[], 4
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="caron.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -2486,10 +2487,10 @@ SRP1[], 2
 IP[], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ccaron">
+
 /* VTTTalk Unicode 0x10d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2499,10 +2500,10 @@ OFFSET[R], 898, 30, 0
 SVTCA[Y]
 CALL[], 46, 10, 1, 1, 48, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ccedilla">
+
 /* VTTTalk Unicode 0xe7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2512,10 +2513,10 @@ OFFSET[R], 911, 15, 0
 SVTCA[Y]
 CALL[], 56, 40, 0, 0, 11, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ccircumflex">
+
 /* VTTTalk Unicode 0x109 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2525,10 +2526,10 @@ OFFSET[R], 897, 36, 0
 SVTCA[Y]
 CALL[], 41, 10, 1, 1, 45, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="cdotaccent">
+
 /* VTTTalk Unicode 0x10b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2538,10 +2539,10 @@ OFFSET[R], 892, 31, 0
 SVTCA[Y]
 CALL[], 41, 10, 1, 1, 87, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="cedilla">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 15
@@ -2554,10 +2555,10 @@ SRP1[], 14
 SHP[1], 17
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="cent">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 14
@@ -2572,10 +2573,10 @@ SRP1[], 44
 SHP[1], 36
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="circle">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2584,10 +2585,10 @@ SHP[1], 30
 SHP[2], 20
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="circleplus">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 10
@@ -2600,10 +2601,10 @@ SLOOP[], 6
 IP[], 51, 50, 41, 44, 47, 45
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="circumflex">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -2614,10 +2615,10 @@ MDRP[m&gt;RBl], 4
 IP[], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="club">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -2638,10 +2639,10 @@ SHP[1], 18
 SHP[1], 44
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="colon">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 6
@@ -2650,10 +2651,10 @@ CALL[], 12, 11, 114
 SHP[2], 18
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="colonmonetary">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 19, 5, 114
@@ -2666,10 +2667,10 @@ MDRP[m&gt;RWh], 3
 SHP[2], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="comma">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 12
@@ -2677,10 +2678,10 @@ SMD[], 192
 MDRP[m&gt;RGr], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="copyright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 38
@@ -2692,10 +2693,10 @@ SLOOP[], 4
 IP[], 0, 30, 21, 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="currency">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 14
@@ -2704,10 +2705,10 @@ MDAP[R], 32
 SHP[1], 36
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="d">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 10, 7, 114
@@ -2722,10 +2723,10 @@ SRP1[], 53
 SHP[1], 30
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dagger">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2739,10 +2740,10 @@ SRP1[], 3
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="daggerdbl">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2764,15 +2765,15 @@ SRP1[], 3
 SHP[1], 15
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="darkshade">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="dbldnhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2788,10 +2789,10 @@ SHP[1], 2
 SHP[2], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dbldnleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2803,10 +2804,10 @@ SHP[1], 2
 SHP[2], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dbldnrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2818,10 +2819,10 @@ SHP[1], 10
 SHP[2], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dblhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2830,10 +2831,10 @@ SHP[1], 4
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dbluphorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2850,10 +2851,10 @@ SRP1[], 7
 SHP[1], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dblupleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2866,10 +2867,10 @@ SRP1[], 3
 SHP[1], 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dbluprightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2882,10 +2883,10 @@ SRP1[], 1
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dblvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2894,10 +2895,10 @@ SHP[1], 5
 SHP[2], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dblverthorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2914,10 +2915,10 @@ MDAP[R], 15
 SHP[1], 19
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dblvertleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2930,10 +2931,10 @@ MDAP[R], 13
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dblvertrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -2950,10 +2951,10 @@ SRP1[], 1
 SHP[1], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dcaron">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 10, 7
@@ -2971,10 +2972,10 @@ SRP1[], 52
 SHP[1], 29
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dcroat">
+
 /* VTTTalk Unicode 0x111 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -2985,10 +2986,10 @@ OFFSET[R], 915, 109, 234
 SVTCA[Y]
 CALL[], 54, 10, 1, 1, 51, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="degree">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 9, 3, 114
@@ -2998,20 +2999,20 @@ MDRP[m&gt;RGr], 0
 SHP[2], 17
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="diamond">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
 MDAP[R], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dieresis">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3021,10 +3022,10 @@ SRP1[], 12
 SHP[1], 18
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dieresis.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 12
@@ -3033,10 +3034,10 @@ SHP[1], 0
 SHP[2], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="divide">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -3050,10 +3051,10 @@ MDRP[m&gt;RGr], 22
 SHP[2], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dndblhorzsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3065,10 +3066,10 @@ SHP[1], 6
 SHP[2], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dndblleftsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3079,10 +3080,10 @@ SHP[1], 8
 SHP[2], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dndblrightsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3093,40 +3094,40 @@ SHP[1], 4
 SHP[2], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dneighthblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnfiveeighthsblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnhalfblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnheavyhorzlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3136,10 +3137,10 @@ SRP1[], 2
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnheavyleftlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3147,10 +3148,10 @@ MDAP[R], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnheavyleftuplightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3162,10 +3163,10 @@ SRP1[], 3
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnheavyrightlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3173,10 +3174,10 @@ MDAP[R], 1
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnheavyrightuplightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3188,10 +3189,10 @@ SRP1[], 5
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnheavyuphorzlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3204,20 +3205,20 @@ SRP1[], 3
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnleftquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnlighthorzheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3227,10 +3228,10 @@ SRP1[], 2
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnlightleftheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3238,10 +3239,10 @@ MDAP[R], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnlightleftupheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3252,10 +3253,10 @@ SHP[1], 4
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnlightrightheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3263,10 +3264,10 @@ MDAP[R], 1
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnlightrightupheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3277,10 +3278,10 @@ SHP[1], 1
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnlightuphorzheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3293,40 +3294,40 @@ SRP1[], 4
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnquarterblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnrightquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnseveneighthsblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnsnghorzdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3339,10 +3340,10 @@ SRP1[], 2
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnsngleftdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3353,10 +3354,10 @@ MDAP[R], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnsngrightdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3367,30 +3368,30 @@ MDAP[R], 5
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnthreeeighthsblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dnthreequartersblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dollar">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 1, 12
@@ -3418,10 +3419,10 @@ SRP1[], 65
 SHP[1], 44
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dong">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 3, 12
@@ -3442,36 +3443,36 @@ SRP1[], 56
 SHP[1], 19
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dotaccent">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="dotaccent.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 918, 10, 140
-
     </glyphProgram>
 
     <glyphProgram name="dotbelowcomb">
+
 /* VTTTalk Unicode 0x323 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 892, -16, -700
-
     </glyphProgram>
 
     <glyphProgram name="dotlessi">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -3483,10 +3484,10 @@ SRP1[], 1
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="e">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -3500,10 +3501,10 @@ SRP1[], 0
 SHP[1], 24
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="eacute">
+
 /* VTTTalk Unicode 0xe9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3513,10 +3514,10 @@ OFFSET[R], 894, -1, 0
 SVTCA[Y]
 CALL[], 44, 10, 1, 1, 39, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ebreve">
+
 /* VTTTalk Unicode 0x115 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3526,10 +3527,10 @@ OFFSET[R], 899, 2, 0
 SVTCA[Y]
 CALL[], 48, 10, 1, 1, 70, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ecaron">
+
 /* VTTTalk Unicode 0x11b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3539,10 +3540,10 @@ OFFSET[R], 898, 4, 0
 SVTCA[Y]
 CALL[], 49, 10, 1, 1, 46, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ecircumflex">
+
 /* VTTTalk Unicode 0xea */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3552,10 +3553,10 @@ OFFSET[R], 897, 10, 0
 SVTCA[Y]
 CALL[], 44, 10, 1, 1, 43, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="edieresis">
+
 /* VTTTalk Unicode 0xeb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3566,10 +3567,10 @@ SVTCA[Y]
 CALL[], 44, 10, 1, 1, 96, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="edotaccent">
+
 /* VTTTalk Unicode 0x117 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3579,10 +3580,10 @@ OFFSET[R], 892, 5, 0
 SVTCA[Y]
 CALL[], 44, 10, 1, 1, 85, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="egrave">
+
 /* VTTTalk Unicode 0xe8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3592,10 +3593,10 @@ OFFSET[R], 893, -1, 0
 SVTCA[Y]
 CALL[], 44, 10, 1, 1, 39, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="eight">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 13, 114
@@ -3607,28 +3608,28 @@ SLOOP[], 4
 IP[], 43, 8, 25, 52
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="eight.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 494, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="eight.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 524, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="element">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3642,10 +3643,10 @@ MDAP[R], 25
 SHP[1], 24
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ellipsis">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -3659,10 +3660,10 @@ SRP1[], 12
 SHP[1], 24
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="emacron">
+
 /* VTTTalk Unicode 0x113 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3672,20 +3673,20 @@ OFFSET[R], 902, 10, 0
 SVTCA[Y]
 CALL[], 44, 10, 1, 1, 97, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="emdash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="emptyset">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -3699,20 +3700,20 @@ SRP1[], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="endash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="eng">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 15, 114
@@ -3725,10 +3726,10 @@ SRP1[], 19
 SHP[1], 30
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="eogonek">
+
 /* VTTTalk Unicode 0x119 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -3738,10 +3739,10 @@ OFFSET[R], 929, -21, 15
 SVTCA[Y]
 CALL[], 53, 0, 0, 0, 42, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="equal">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3751,10 +3752,10 @@ MDAP[R], 5
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="equal_equal_equal.dlig">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 5, 18
@@ -3766,10 +3767,10 @@ MDRP[m&gt;RWh], 9
 SHP[2], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="equal_greater.dlig">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 16
@@ -3797,10 +3798,10 @@ SRP1[], 20
 SHP[1], 13
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="estimated">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -3812,10 +3813,10 @@ MDAP[R], 14
 SHP[1], 34
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="eth">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -3829,10 +3830,10 @@ SLOOP[], 4
 IP[], 17, 31, 20, 28
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="exclam">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 5, 1, 114
@@ -3843,10 +3844,10 @@ SRP0[], 17
 MDRP[m&gt;RWh], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="exclam_equal_equal.dlig">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 8
@@ -3869,10 +3870,10 @@ MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="exclamdown">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 6
@@ -3883,10 +3884,10 @@ SRP0[], 17
 MDRP[m&gt;RWh], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="f">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 8, 1, 114
@@ -3899,19 +3900,19 @@ SHP[1], 1
 CALL[], 30, 10, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="figuredash">
+
 /* VTTTalk Unicode 0x2012 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 564, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="five">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 28, 4, 114
@@ -3926,28 +3927,28 @@ SRP2[], 22
 IP[], 32
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="five.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 491, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="five.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 521, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="florin">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 15, 114
@@ -3963,10 +3964,10 @@ SRP1[], 15
 SHP[1], 42
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="four">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 4, 114
@@ -3983,28 +3984,28 @@ SRP1[], 11
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="four.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 520, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="four.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 520, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="fraction">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4013,10 +4014,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="franc">
+
 /* VTTTalk Unicode 0x20a3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4026,20 +4027,20 @@ OFFSET[R], 915, -100, -140
 SVTCA[Y]
 CALL[], 10, 0, 1, 1, 146, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="fullblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="g">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 15, 114
@@ -4066,10 +4067,10 @@ SRP1[], 92
 SHP[1], 87
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="gbreve">
+
 /* VTTTalk Unicode 0x11f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4079,10 +4080,10 @@ OFFSET[R], 924, 9, 0
 SVTCA[Y]
 CALL[], 95, 63, 1, 1, 50, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="gcaron">
+
 /* VTTTalk Unicode 0x1e7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4092,10 +4093,10 @@ OFFSET[R], 898, -30, 0
 SVTCA[Y]
 CALL[], 100, 63, 1, 1, 40, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="gcircumflex">
+
 /* VTTTalk Unicode 0x11d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4105,10 +4106,10 @@ OFFSET[R], 897, -24, 0
 SVTCA[Y]
 CALL[], 95, 63, 1, 1, 37, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="gdotaccent">
+
 /* VTTTalk Unicode 0x121 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4118,10 +4119,10 @@ OFFSET[R], 892, -29, 0
 SVTCA[Y]
 CALL[], 95, 63, 1, 1, 79, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="germandbls">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -4137,10 +4138,10 @@ SRP2[], 19
 IP[], 50
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="grave">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4149,10 +4150,10 @@ IP[], 3
 IP[], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="grave.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4162,26 +4163,26 @@ IP[], 3
 IP[], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="gravecomb">
+
 /* VTTTalk Unicode 0x300 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 919, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="gravecomb.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 943, -50, 0
-
     </glyphProgram>
 
     <glyphProgram name="greater">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4192,10 +4193,10 @@ SLOOP[], 3
 IP[], 6, 2, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="greater_equal.dlig">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 8
@@ -4213,10 +4214,10 @@ MDRP[m&gt;RBl], 9
 SHP[2], 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="greaterequal">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 8
@@ -4231,10 +4232,10 @@ SLOOP[], 3
 IP[], 6, 2, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="guillemotleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4243,10 +4244,10 @@ SHP[1], 10
 SHP[2], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="guillemotright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4255,30 +4256,30 @@ SHP[1], 11
 SHP[2], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="guilsinglleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="guilsinglright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="h">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 0, 114
@@ -4290,10 +4291,10 @@ CALL[], 30, 10, 114
 SHP[2], 17
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="hbar">
+
 /* VTTTalk Unicode 0x127 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4305,10 +4306,10 @@ OFFSET[R], 915, -121, 234
 SVTCA[Y]
 CALL[], 31, 11, 1, 1, 52, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="hcircumflex">
+
 /* VTTTalk Unicode 0x125 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4318,10 +4319,10 @@ OFFSET[R], 935, -132, 42
 SVTCA[Y]
 CALL[], 31, 0, 1, 1, 32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="heart">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4331,10 +4332,10 @@ SRP1[], 25
 IP[], 29
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavydbldashhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4343,10 +4344,10 @@ SHP[1], 5
 SHP[2], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavydbldashvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4355,20 +4356,20 @@ MDAP[R], 5
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavydnbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavydnhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4378,10 +4379,10 @@ SRP1[], 1
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavydnleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4389,10 +4390,10 @@ MDAP[R], 3
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavydnrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4400,30 +4401,30 @@ MDAP[R], 1
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyleftlightrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4433,10 +4434,10 @@ IP[], 6
 IP[], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyquaddashhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4449,10 +4450,10 @@ SHP[1], 13
 SHP[2], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyquaddashvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 8
@@ -4470,20 +4471,20 @@ MDAP[R], 12
 SHP[1], 13
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavytrpldashhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4497,10 +4498,10 @@ SRP1[], 4
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavytrpldashvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4509,20 +4510,20 @@ SHP[1], 5
 SHP[2], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyupbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyuphorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4532,10 +4533,10 @@ SHP[1], 5
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyupleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4543,20 +4544,20 @@ SHP[2], 2
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyuplightdnbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyuprightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4564,20 +4565,20 @@ SHP[2], 3
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyverthorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4590,10 +4591,10 @@ SRP1[], 10
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyvertleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4603,10 +4604,10 @@ MDAP[R], 1
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="heavyvertrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4616,10 +4617,10 @@ MDAP[R], 6
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="hookabovecomb">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 23
@@ -4628,10 +4629,10 @@ MDRP[m&gt;RGr], 6
 SHP[1], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="house">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -4648,10 +4649,10 @@ SRP1[], 8
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="hungarumlaut">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -4665,10 +4666,10 @@ SRP1[], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="hungarumlaut.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -4683,20 +4684,20 @@ SRP1[], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="hyphen">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="hyphen_greater.dlig">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 7
@@ -4711,10 +4712,10 @@ SLOOP[], 3
 IP[], 6, 2, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="i">
+
 /* VTTTalk Unicode 0x69 (i) */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4724,10 +4725,10 @@ OFFSET[R], 892, -5, 0
 SVTCA[Y]
 CALL[], 10, 5, 0, 1, 96, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="i.loclTRK">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4737,10 +4738,10 @@ OFFSET[R], 892, -5, 0
 SVTCA[Y]
 CALL[], 10, 5, 1, 1, 96, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="iacute">
+
 /* VTTTalk Unicode 0xed */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4750,10 +4751,10 @@ OFFSET[R], 920, -8, 0
 SVTCA[Y]
 CALL[], 10, 5, 1, 1, 65, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ibreve">
+
 /* VTTTalk Unicode 0x12d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4763,10 +4764,10 @@ OFFSET[R], 899, -8, 0
 SVTCA[Y]
 CALL[], 14, 5, 1, 1, 81, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="icircumflex">
+
 /* VTTTalk Unicode 0xee */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4776,10 +4777,10 @@ OFFSET[R], 897, 0, 0
 SVTCA[Y]
 CALL[], 10, 5, 1, 1, 54, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="idieresis">
+
 /* VTTTalk Unicode 0xef */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4790,10 +4791,10 @@ SVTCA[Y]
 CALL[], 10, 5, 1, 1, 107, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="igrave">
+
 /* VTTTalk Unicode 0xec */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4803,10 +4804,10 @@ OFFSET[R], 893, -11, 0
 SVTCA[Y]
 CALL[], 10, 5, 1, 1, 50, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="imacron">
+
 /* VTTTalk Unicode 0x12b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4816,10 +4817,10 @@ OFFSET[R], 902, 0, 0
 SVTCA[Y]
 CALL[], 10, 5, 1, 1, 108, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="infinity">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 10
@@ -4840,10 +4841,10 @@ SRP1[], 24
 SHP[1], 47
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="integral">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -4852,10 +4853,10 @@ MDAP[R], 16
 SHP[1], 23
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="invsmileface">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 10
@@ -4865,10 +4866,10 @@ SLOOP[], 6
 IP[], 20, 28, 48, 36, 42, 54
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="iogonek">
+
 /* VTTTalk Unicode 0x12f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4881,10 +4882,10 @@ CALL[], 10, 5, 1, 1, 96, 86
 SHC[2], 1
 CALL[], 32, 0, 0, 0, 0, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="itilde">
+
 /* VTTTalk Unicode 0x129 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4894,10 +4895,10 @@ OFFSET[R], 950, -10, 0
 SVTCA[Y]
 CALL[], 14, 5, 1, 1, 117, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="j">
+
 /* VTTTalk Unicode 0x6a (j) */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4907,10 +4908,10 @@ OFFSET[R], 892, 73, 0
 SVTCA[Y]
 CALL[], 26, 19, 1, 1, 96, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="jcircumflex">
+
 /* VTTTalk Unicode 0x135 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4920,10 +4921,10 @@ OFFSET[R], 897, 78, 0
 SVTCA[Y]
 CALL[], 26, 19, 1, 1, 54, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="k">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 3, 10, 114
@@ -4935,10 +4936,10 @@ SLOOP[], 4
 IP[], 1, 0, 11, 19
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="kgreenlandic">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 3, 10, 114
@@ -4954,10 +4955,10 @@ MDAP[R], 18
 SHP[1], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="l">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -4968,10 +4969,10 @@ CALL[], 5, 0, 114
 SHP[2], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lacute">
+
 /* VTTTalk Unicode 0x13a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4981,10 +4982,10 @@ OFFSET[R], 933, -19, 42
 SVTCA[Y]
 CALL[], 10, 5, 1, 1, 37, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="lcaron">
+
 /* VTTTalk Unicode 0x13e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -4994,10 +4995,10 @@ OFFSET[R], 880, 164, 0
 SVTCA[Y]
 CALL[], 23, 5, 0, 0, 6, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ldot">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -5012,10 +5013,10 @@ MDAP[R], 10
 SHP[1], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftdnheavyrightuplightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5024,40 +5025,40 @@ SLOOP[], 5
 IP[], 1, 12, 9, 7, 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lefteighthblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftfiveeighthsblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lefthalfblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftheavyrightdnlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5068,10 +5069,10 @@ MDAP[R], 5
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftheavyrightuplightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5081,10 +5082,10 @@ MDAP[R], 8
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftheavyrightvertlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5094,10 +5095,10 @@ MDAP[R], 10
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftlightrightdnheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5107,10 +5108,10 @@ MDAP[R], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftlightrightupheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5120,10 +5121,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftlightrightvertheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5133,50 +5134,50 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftquarterblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftseveneighthsblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftthreeeighthsblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftthreequartersblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="leftupheavyrightdnlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5186,10 +5187,10 @@ MDAP[R], 10
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="less">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5200,10 +5201,10 @@ SLOOP[], 3
 IP[], 1, 5, 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="less_equal.dlig">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 10
@@ -5223,10 +5224,10 @@ MDAP[R], 8
 SHP[1], 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="less_hyphen.dlig">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 8
@@ -5241,10 +5242,10 @@ SLOOP[], 3
 IP[], 1, 5, 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lessequal">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 7
@@ -5259,10 +5260,10 @@ SLOOP[], 3
 IP[], 1, 5, 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightarcdnleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 15
@@ -5270,10 +5271,10 @@ MDAP[R], 7
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightarcdnrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5281,10 +5282,10 @@ MDAP[R], 8
 SHP[1], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightarcupleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -5293,10 +5294,10 @@ SRP1[], 9
 SHP[1], 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightarcuprightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 8
@@ -5305,10 +5306,10 @@ SRP1[], 8
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdbldashhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5318,10 +5319,10 @@ SRP1[], 1
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdbldashvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5330,10 +5331,10 @@ MDAP[R], 5
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdiagcrossbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5344,10 +5345,10 @@ SLOOP[], 4
 IP[], 4, 7, 10, 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdiagupleftdnrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5356,10 +5357,10 @@ MDAP[R], 2
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdiaguprightdnleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5368,20 +5369,20 @@ MDAP[R], 2
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdnbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdnhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5391,10 +5392,10 @@ SRP1[], 2
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdnleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5402,10 +5403,10 @@ MDAP[R], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightdnrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5413,30 +5414,30 @@ MDAP[R], 1
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lighthorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightleftheavyrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5446,10 +5447,10 @@ IP[], 1
 IP[], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightquaddashhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5467,10 +5468,10 @@ SRP1[], 8
 SHP[1], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightquaddashvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 5, 18
@@ -5484,25 +5485,25 @@ MDRP[M&gt;RWh], 12
 MDRP[m&gt;RBl], 13
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightshade">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="lighttrpldashhorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5516,10 +5517,10 @@ SRP1[], 4
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lighttrpldashvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5528,30 +5529,30 @@ SHP[1], 5
 SHP[2], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightupbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightupheavydnbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightuphorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5561,10 +5562,10 @@ SRP1[], 1
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightupleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5572,10 +5573,10 @@ MDAP[R], 3
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightuprightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5583,20 +5584,20 @@ MDAP[R], 1
 SHP[2], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightvertbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightverthorzbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5609,10 +5610,10 @@ SRP1[], 3
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightvertleftbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5622,10 +5623,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lightvertrightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5635,19 +5636,19 @@ MDAP[R], 6
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lira">
+
 /* VTTTalk Unicode 0x20a4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 613, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="logicalnot">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 3
@@ -5655,10 +5656,10 @@ MDRP[m&gt;RGr], 0
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lozenge">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 18, 114
@@ -5668,10 +5669,10 @@ SRP1[], 0
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="lslash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -5685,10 +5686,10 @@ SLOOP[], 4
 IP[], 3, 14, 6, 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="m">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -5706,45 +5707,45 @@ SRP1[], 37
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="macron">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="mediumshade">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="minus">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="minute">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
 MDRP[m&gt;RBl], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="multiply">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -5756,10 +5757,10 @@ SLOOP[], 4
 IP[], 1, 4, 10, 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="n">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -5771,10 +5772,10 @@ SRP1[], 18
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="nacute">
+
 /* VTTTalk Unicode 0x144 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -5784,10 +5785,10 @@ OFFSET[R], 894, 4, 0
 SVTCA[Y]
 CALL[], 25, 7, 1, 1, 39, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ncaron">
+
 /* VTTTalk Unicode 0x148 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -5797,10 +5798,10 @@ OFFSET[R], 898, 9, 0
 SVTCA[Y]
 CALL[], 30, 7, 1, 1, 46, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="nine">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 50, 5, 114
@@ -5813,28 +5814,28 @@ MDAP[R], 40
 SHP[1], 31
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="nine.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 495, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="nine.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 525, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="notequal">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -5853,10 +5854,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ntilde">
+
 /* VTTTalk Unicode 0xf1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -5866,10 +5867,10 @@ OFFSET[R], 901, 5, 0
 SVTCA[Y]
 CALL[], 29, 7, 1, 1, 106, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="numbersign">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -5903,10 +5904,10 @@ SRP1[], 15
 SHP[1], 19
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="o">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -5916,10 +5917,10 @@ SRP1[], 0
 SHP[1], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="oacute">
+
 /* VTTTalk Unicode 0xf3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -5929,10 +5930,10 @@ OFFSET[R], 894, -11, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 40, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="obreve">
+
 /* VTTTalk Unicode 0x14f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -5942,10 +5943,10 @@ OFFSET[R], 899, -8, 0
 SVTCA[Y]
 CALL[], 36, 8, 1, 1, 71, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ocircumflex">
+
 /* VTTTalk Unicode 0xf4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -5955,10 +5956,10 @@ OFFSET[R], 897, 0, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 44, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="odieresis">
+
 /* VTTTalk Unicode 0xf6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -5969,10 +5970,10 @@ SVTCA[Y]
 CALL[], 32, 8, 1, 1, 97, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="oe">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 6, 11, 114
@@ -5996,10 +5997,10 @@ SRP1[], 21
 SHP[1], 72
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ogonek">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -6007,10 +6008,10 @@ MDRP[m&gt;RGr], 1
 SHP[2], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ograve">
+
 /* VTTTalk Unicode 0xf2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6020,10 +6021,10 @@ OFFSET[R], 893, -11, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 40, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ohorn">
+
 /* VTTTalk Unicode 0x1a1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6033,10 +6034,10 @@ OFFSET[R], 907, -37, -21
 SVTCA[Y]
 CALL[], 36, 8, 1, 1, -80, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ohungarumlaut">
+
 /* VTTTalk Unicode 0x151 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6047,10 +6048,10 @@ SVTCA[Y]
 CALL[], 32, 8, 1, 1, 55, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="omacron">
+
 /* VTTTalk Unicode 0x14d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6060,10 +6061,10 @@ OFFSET[R], 902, 0, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 98, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="one">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 4, 114
@@ -6075,28 +6076,28 @@ SHP[1], 2
 CALL[], 6, 12, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="one.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 487, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="one.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 517, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="onehalf">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -6126,10 +6127,10 @@ MDAP[R], 37
 SHP[1], 38
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="onequarter">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -6164,10 +6165,10 @@ MDAP[R], 21
 SHP[1], 22
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ordfeminine">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 40, 3, 114
@@ -6191,10 +6192,10 @@ MDAP[R], 52
 SHP[1], 55
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ordmasculine">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 8, 3, 114
@@ -6208,10 +6209,10 @@ MDAP[R], 32
 SHP[1], 35
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="oslash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 11, 114
@@ -6227,10 +6228,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="oslashacute">
+
 /* VTTTalk Unicode 0x1ff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6240,10 +6241,10 @@ OFFSET[R], 894, -11, 0
 SVTCA[Y]
 CALL[], 36, 12, 1, 1, 40, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="otilde">
+
 /* VTTTalk Unicode 0xf5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6253,10 +6254,10 @@ OFFSET[R], 901, -10, 0
 SVTCA[Y]
 CALL[], 36, 8, 1, 1, 107, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="p">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 14, 114
@@ -6271,10 +6272,10 @@ SRP1[], 23
 SHP[1], 21
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="paragraph">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6284,10 +6285,10 @@ SRP1[], 0
 SHP[1], 13
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="parenleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6296,10 +6297,10 @@ MDAP[R], 8
 SHP[1], 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="parenright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6308,10 +6309,10 @@ MDAP[R], 12
 SHP[1], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="partialdiff">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -6322,10 +6323,10 @@ CALL[], 27, 1, 114
 SHP[2], 20
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="percent">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 13, 114
@@ -6344,39 +6345,39 @@ MDAP[R], 36
 SHP[1], 52
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="period">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
 SHP[2], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="periodcentered">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="periodcentered.loclCAT">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 547, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="perthousand">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 13, 114
@@ -6402,10 +6403,10 @@ MDAP[R], 68
 SHP[1], 84
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="peseta">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 0, 4
@@ -6435,10 +6436,10 @@ MDRP[m&lt;RGr], 72
 SHP[2], 84
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="plus">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -6451,10 +6452,10 @@ MDRP[m&gt;RBl], 5
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="plusminus">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -6471,10 +6472,10 @@ MDRP[m&gt;RBl], 5
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="product">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6484,10 +6485,10 @@ SRP1[], 0
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="q">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 5, 11, 114
@@ -6502,10 +6503,10 @@ CALL[], 22, 6, 114
 CALL[], 23, 14, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="question">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 25, 1, 114
@@ -6517,10 +6518,10 @@ SHP[1], 38
 MDAP[R], 38
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="questiondown">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 25
@@ -6532,28 +6533,28 @@ SHP[1], 37
 MDAP[R], 37
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="quotedbl">
+
 /* VTTTalk Unicode 0x22 (") */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 581, -75, 0
 OFFSET[R], 581, 75, 0
-
     </glyphProgram>
 
     <glyphProgram name="quotedbl.ss03">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 583, -93, 0
 OFFSET[R], 583, 68, 0
-
     </glyphProgram>
 
     <glyphProgram name="quotedblbase">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 13
@@ -6566,10 +6567,10 @@ SRP1[], 20
 SHP[1], 21
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="quotedblleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 3, 114
@@ -6582,10 +6583,10 @@ SRP1[], 20
 SHP[1], 21
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="quotedblright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 33, 3, 114
@@ -6598,10 +6599,10 @@ SRP1[], 0
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="quoteleft">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 3, 114
@@ -6610,10 +6611,10 @@ MDRP[m&gt;RGr], 13
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="quoteright">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 13, 3, 114
@@ -6622,29 +6623,29 @@ MDRP[m&gt;RGr], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="quotesinglbase">
+
 /* VTTTalk Unicode 0x201a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 575, 0, -532
-
     </glyphProgram>
 
     <glyphProgram name="quotesingle">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDRP[m&gt;RBl], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="quotesingle.ss03">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -6652,10 +6653,10 @@ MDRP[m&gt;RBl], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="r">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 6, 114
@@ -6668,10 +6669,10 @@ SHP[1], 3
 CALL[], 27, 10, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="r.serif">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6686,10 +6687,10 @@ SRP1[], 21
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="racute">
+
 /* VTTTalk Unicode 0x155 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6699,10 +6700,10 @@ OFFSET[R], 894, 29, 0
 SVTCA[Y]
 CALL[], 28, 8, 1, 1, 39, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="radical">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 19, 114
@@ -6712,10 +6713,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rcaron">
+
 /* VTTTalk Unicode 0x159 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6725,10 +6726,10 @@ OFFSET[R], 898, 34, 0
 SVTCA[Y]
 CALL[], 33, 8, 1, 1, 46, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="registered">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 24
@@ -6740,10 +6741,10 @@ SLOOP[], 7
 IP[], 0, 3, 2, 13, 15, 23, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightdnheavyleftuplightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6753,30 +6754,30 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="righteighthblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="righthalfblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightheavyleftdnlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6786,10 +6787,10 @@ MDAP[R], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightheavyleftuplightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6799,10 +6800,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightheavyleftvertlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6812,10 +6813,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightlightleftdnheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6826,10 +6827,10 @@ MDAP[R], 5
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightlightleftupheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6840,10 +6841,10 @@ MDAP[R], 8
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightlightleftvertheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6856,10 +6857,10 @@ SRP1[], 10
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="rightupheavyleftdnlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6869,10 +6870,10 @@ MDAP[R], 4
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ring">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6883,10 +6884,10 @@ MDRP[m&gt;RGr], 8
 SHP[2], 22
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ring.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6895,10 +6896,10 @@ MDRP[m&gt;RGr], 8
 SHP[2], 22
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="s">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 59, 11, 114
@@ -6910,10 +6911,10 @@ SLOOP[], 4
 IP[], 17, 55, 26, 47
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="sacute">
+
 /* VTTTalk Unicode 0x15b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6923,10 +6924,10 @@ OFFSET[R], 894, 0, 0
 SVTCA[Y]
 CALL[], 60, 30, 1, 1, 39, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="scaron">
+
 /* VTTTalk Unicode 0x161 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6936,10 +6937,10 @@ OFFSET[R], 898, 0, 0
 SVTCA[Y]
 CALL[], 65, 30, 1, 1, 46, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="scedilla">
+
 /* VTTTalk Unicode 0x15f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6949,10 +6950,10 @@ OFFSET[R], 911, 0, 0
 SVTCA[Y]
 CALL[], 75, 59, 0, 0, 10, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="scircumflex">
+
 /* VTTTalk Unicode 0x15d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -6962,19 +6963,19 @@ OFFSET[R], 897, 0, 0
 SVTCA[Y]
 CALL[], 60, 30, 1, 1, 43, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="second">
+
 /* VTTTalk Unicode 0x2033 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 854, 70, 0
 OFFSET[R], 854, -60, 0
-
     </glyphProgram>
 
     <glyphProgram name="section">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -6986,10 +6987,10 @@ SLOOP[], 10
 IP[], 18, 72, 69, 77, 81, 26, 87, 31, 34, 55
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="semicolon">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 13
@@ -6999,10 +7000,10 @@ MDAP[R], 26
 SHP[1], 20
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="seven">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 12, 114
@@ -7012,28 +7013,28 @@ SRP1[], 5
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="seven.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 493, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="seven.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 523, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="six">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 8, 5, 114
@@ -7048,28 +7049,28 @@ SRP1[], 51
 SHP[1], 27
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="six.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 492, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="six.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 522, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="slash">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -7078,10 +7079,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="smileface">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 10
@@ -7093,15 +7094,15 @@ SLOOP[], 6
 IP[], 40, 48, 68, 56, 74, 62
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="space">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="spade">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 6
@@ -7115,10 +7116,10 @@ SHP[1], 24
 SHP[1], 27
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="sterling">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 13, 114
@@ -7139,10 +7140,10 @@ SRP1[], 32
 SHP[1], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="summation">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -7159,10 +7160,10 @@ SHP[1], 3
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="t">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 26, 11, 114
@@ -7174,10 +7175,10 @@ DLTP1[(8 @0 -8)]
 SHP[1], 30
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="tbar">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 30, 11, 114
@@ -7193,10 +7194,10 @@ MDAP[R], 1
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="tcaron">
+
 /* VTTTalk Unicode 0x165 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7206,10 +7207,10 @@ OFFSET[R], 880, 174, 35
 SVTCA[Y]
 CALL[], 31, 8, 1, 1, -95, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="thorn">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 0, 114
@@ -7224,10 +7225,10 @@ SRP1[], 28
 SHP[1], 25
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="three">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 40, 5, 114
@@ -7242,28 +7243,28 @@ SRP2[], 22
 IP[], 48
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="three.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 519, 0, -280
-
     </glyphProgram>
 
     <glyphProgram name="three.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 519, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="threequarters">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 36
@@ -7295,26 +7296,26 @@ MDAP[R], 63
 SHP[1], 64
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="tilde">
+
 /* VTTTalk Unicode 0x2dc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 901, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="tilde.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 901, 0, 130
-
     </glyphProgram>
 
     <glyphProgram name="tildecomb">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -7330,18 +7331,18 @@ SRP1[], 0
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="tildecomb.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 901, -5, 114
-
     </glyphProgram>
 
     <glyphProgram name="tildecomb.i">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 4, 16
@@ -7357,10 +7358,10 @@ SRP1[], 0
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="trademark">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 3, 3, 114
@@ -7382,10 +7383,10 @@ SRP1[], 9
 SHP[1], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="two">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 25, 5, 114
@@ -7396,28 +7397,28 @@ SRP1[], 35
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="two.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 518, 0, -253
-
     </glyphProgram>
 
     <glyphProgram name="two.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 518, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="u">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -7429,10 +7430,10 @@ SHP[2], 21
 CALL[], 26, 10, 114
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="u.i">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -7444,10 +7445,10 @@ SHP[2], 21
 MIAP[R], 26, 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uacute">
+
 /* VTTTalk Unicode 0xfa */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7457,10 +7458,10 @@ OFFSET[R], 894, -11, 0
 SVTCA[Y]
 CALL[], 35, 20, 1, 1, 50, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ubreve">
+
 /* VTTTalk Unicode 0x16d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7470,10 +7471,10 @@ OFFSET[R], 899, -8, 0
 SVTCA[Y]
 CALL[], 39, 20, 1, 1, 81, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="ucircumflex">
+
 /* VTTTalk Unicode 0xfb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7483,10 +7484,10 @@ OFFSET[R], 897, 0, 0
 SVTCA[Y]
 CALL[], 35, 7, 1, 1, 54, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="udieresis">
+
 /* VTTTalk Unicode 0xfc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7497,10 +7498,10 @@ SVTCA[Y]
 CALL[], 35, 7, 1, 1, 107, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ugrave">
+
 /* VTTTalk Unicode 0xf9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7510,10 +7511,10 @@ OFFSET[R], 893, -11, 0
 SVTCA[Y]
 CALL[], 35, 20, 1, 1, 50, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uhorn">
+
 USEMYMETRICS[]
 OFFSET[R], 468, 0, 0
 OFFSET[R], 907, -15, 0
@@ -7523,10 +7524,10 @@ OFFSET[R], 907, -15, 0
 SVTCA[Y]
 CALL[], 39, 7, 1, 1, -49, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uhungarumlaut">
+
 /* VTTTalk Unicode 0x171 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7537,10 +7538,10 @@ SVTCA[Y]
 CALL[], 35, 20, 1, 1, 65, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="umacron">
+
 /* VTTTalk Unicode 0x16b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7550,34 +7551,34 @@ OFFSET[R], 902, 0, 0
 SVTCA[Y]
 CALL[], 35, 7, 1, 1, 108, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="underscore">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni00A0">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="uni00AD">
+
 /* VTTTalk Unicode 0xad */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 562, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni00B2">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 21, 5, 114
@@ -7588,10 +7589,10 @@ SRP1[], 30
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni00B3">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 36, 5, 114
@@ -7606,10 +7607,10 @@ SRP2[], 20
 IP[], 42
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni00B5">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 7, 6, 114
@@ -7623,10 +7624,10 @@ SHP[1], 45
 MDAP[R], 50
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni00B9">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 4, 114
@@ -7638,10 +7639,10 @@ SRP1[], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0122">
+
 /* VTTTalk Unicode 0x122 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7651,10 +7652,10 @@ OFFSET[R], 910, 30, 0
 SVTCA[Y]
 CALL[], 61, 48, 1, 1, -22, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0123">
+
 /* VTTTalk Unicode 0x123 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7664,10 +7665,10 @@ OFFSET[R], 906, -10, -10
 SVTCA[Y]
 CALL[], 107, 63, 1, 1, 66, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="uni0136">
+
 /* VTTTalk Unicode 0x136 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7677,10 +7678,10 @@ OFFSET[R], 910, 0, 0
 SVTCA[Y]
 CALL[], 34, 3, 1, 1, -32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0137">
+
 /* VTTTalk Unicode 0x137 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7690,10 +7691,10 @@ OFFSET[R], 910, 14, 0
 SVTCA[Y]
 CALL[], 34, 3, 1, 1, -32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni013B">
+
 /* VTTTalk Unicode 0x13b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7703,10 +7704,10 @@ OFFSET[R], 910, 14, 0
 SVTCA[Y]
 CALL[], 23, 10, 1, 1, -32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni013C">
+
 /* VTTTalk Unicode 0x13c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7716,10 +7717,10 @@ OFFSET[R], 910, 14, 0
 SVTCA[Y]
 CALL[], 22, 0, 1, 1, -32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0145">
+
 /* VTTTalk Unicode 0x145 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7729,10 +7730,10 @@ OFFSET[R], 910, 14, 0
 SVTCA[Y]
 CALL[], 27, 11, 1, 1, -32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0146">
+
 /* VTTTalk Unicode 0x146 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7742,10 +7743,10 @@ OFFSET[R], 910, 24, 0
 SVTCA[Y]
 CALL[], 37, 13, 1, 1, -32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0156">
+
 /* VTTTalk Unicode 0x156 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7755,10 +7756,10 @@ OFFSET[R], 910, 14, 0
 SVTCA[Y]
 CALL[], 38, 12, 1, 1, -32, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0157">
+
 /* VTTTalk Unicode 0x157 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7768,10 +7769,10 @@ OFFSET[R], 910, 34, 0
 SVTCA[Y]
 CALL[], 40, 27, 1, 1, -31, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0162">
+
 /* VTTTalk Unicode 0x162 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7781,10 +7782,10 @@ OFFSET[R], 911, -21, 0
 SVTCA[Y]
 CALL[], 23, 0, 1, 0, 0, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0163">
+
 /* VTTTalk Unicode 0x163 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7794,19 +7795,19 @@ OFFSET[R], 911, -21, 0
 SVTCA[Y]
 CALL[], 46, 26, 1, 0, 7, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni018F">
+
 /* VTTTalk Unicode 0x18f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 120, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0198">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 2, 114
@@ -7819,10 +7820,10 @@ IP[], 30, 7, 33, 34
 MIAP[R], 36, 18
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni01B8">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 32, 9, 114
@@ -7838,18 +7839,18 @@ SLOOP[], 3
 SHP[1], 10, 39, 38
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni01B9">
+
 /* VTTTalk Unicode 0x1b9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 65, 20, -166
-
     </glyphProgram>
 
     <glyphProgram name="uni01C7">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -7864,10 +7865,10 @@ SRP1[], 0
 SHP[1], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni01C8">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 8, 114
@@ -7882,10 +7883,10 @@ MDAP[R], 38
 SHP[1], 44
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni01C9">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 15, 114
@@ -7902,10 +7903,10 @@ CALL[], 31, 0, 114
 SHP[2], 30
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni01EA">
+
 /* VTTTalk Unicode 0x1ea */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7915,20 +7916,20 @@ OFFSET[R], 912, 38, 10
 SVTCA[Y]
 CALL[], 41, 0, 0, 0, 38, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni01EB">
+
 /* VTTTalk Unicode 0x1eb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 355, 0, 0
 OFFSET[R], 912, 37, 10
-
     </glyphProgram>
 
     <glyphProgram name="uni0200">
+
 /* VTTTalk Unicode 0x200 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7941,10 +7942,10 @@ CALL[], 11, 7, 1, 1, 39, 86
 
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni0201">
+
 /* VTTTalk Unicode 0x201 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7955,10 +7956,10 @@ SVTCA[Y]
 CALL[], 56, 43, 1, 1, 40, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0202">
+
 /* VTTTalk Unicode 0x202 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7968,10 +7969,10 @@ OFFSET[R], 905, -8, 166
 SVTCA[Y]
 CALL[], 11, 7, 1, 1, 60, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0203">
+
 /* VTTTalk Unicode 0x203 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7981,10 +7982,10 @@ OFFSET[R], 905, -8, 0
 SVTCA[Y]
 CALL[], 56, 43, 1, 1, 61, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0204">
+
 /* VTTTalk Unicode 0x204 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -7995,10 +7996,10 @@ SVTCA[Y]
 CALL[], 12, 1, 1, 1, 49, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0205">
+
 /* VTTTalk Unicode 0x205 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8009,10 +8010,10 @@ SVTCA[Y]
 CALL[], 44, 10, 1, 1, 39, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni0206">
+
 /* VTTTalk Unicode 0x206 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8022,10 +8023,10 @@ OFFSET[R], 905, 1, 166
 SVTCA[Y]
 CALL[], 12, 1, 1, 1, 70, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0207">
+
 /* VTTTalk Unicode 0x207 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8035,10 +8036,10 @@ OFFSET[R], 905, 2, 0
 SVTCA[Y]
 CALL[], 44, 10, 1, 1, 60, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0208">
+
 /* VTTTalk Unicode 0x208 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8049,10 +8050,10 @@ SVTCA[Y]
 CALL[], 12, 5, 1, 1, 50, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0209">
+
 /* VTTTalk Unicode 0x209 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8063,10 +8064,10 @@ SVTCA[Y]
 CALL[], 10, 5, 1, 1, 50, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni020A">
+
 /* VTTTalk Unicode 0x20a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8076,10 +8077,10 @@ OFFSET[R], 905, -19, 166
 SVTCA[Y]
 CALL[], 12, 5, 1, 1, 71, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni020B">
+
 /* VTTTalk Unicode 0x20b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8089,10 +8090,10 @@ OFFSET[R], 905, -8, 0
 SVTCA[Y]
 CALL[], 10, 5, 1, 1, 71, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni020C">
+
 /* VTTTalk Unicode 0x20c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8103,10 +8104,10 @@ SVTCA[Y]
 CALL[], 32, 8, 1, 1, 46, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni020D">
+
 /* VTTTalk Unicode 0x20d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8117,10 +8118,10 @@ SVTCA[Y]
 CALL[], 32, 8, 1, 1, 40, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni020E">
+
 /* VTTTalk Unicode 0x20e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8130,10 +8131,10 @@ OFFSET[R], 905, -8, 166
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 67, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni020F">
+
 /* VTTTalk Unicode 0x20f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8143,10 +8144,10 @@ OFFSET[R], 905, -8, 0
 SVTCA[Y]
 CALL[], 32, 8, 1, 1, 61, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0210">
+
 /* VTTTalk Unicode 0x210 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8157,10 +8158,10 @@ SVTCA[Y]
 CALL[], 26, 1, 1, 1, 50, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni0211">
+
 /* VTTTalk Unicode 0x211 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8171,10 +8172,10 @@ SVTCA[Y]
 CALL[], 28, 0, 1, 1, 50, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0212">
+
 /* VTTTalk Unicode 0x212 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8184,10 +8185,10 @@ OFFSET[R], 905, -8, 166
 SVTCA[Y]
 CALL[], 26, 1, 1, 1, 71, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0213">
+
 /* VTTTalk Unicode 0x213 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8197,10 +8198,10 @@ OFFSET[R], 905, 32, 0
 SVTCA[Y]
 CALL[], 28, 0, 1, 1, 71, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0214">
+
 /* VTTTalk Unicode 0x214 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8211,10 +8212,10 @@ SVTCA[Y]
 CALL[], 25, 4, 1, 1, 50, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0215">
+
 /* VTTTalk Unicode 0x215 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8225,10 +8226,10 @@ SVTCA[Y]
 CALL[], 35, 7, 1, 1, 50, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0216">
+
 /* VTTTalk Unicode 0x216 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8238,10 +8239,10 @@ OFFSET[R], 905, -8, 166
 SVTCA[Y]
 CALL[], 25, 4, 1, 1, 71, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0217">
+
 /* VTTTalk Unicode 0x217 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8251,10 +8252,10 @@ OFFSET[R], 905, -8, 0
 SVTCA[Y]
 CALL[], 35, 7, 1, 1, 71, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0218">
+
 /* VTTTalk Unicode 0x218 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8264,10 +8265,10 @@ OFFSET[R], 910, 11, 0
 SVTCA[Y]
 CALL[], 77, 64, 1, 1, -22, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0219">
+
 /* VTTTalk Unicode 0x219 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8277,10 +8278,10 @@ OFFSET[R], 910, 0, 0
 SVTCA[Y]
 CALL[], 72, 59, 1, 1, -22, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni021A">
+
 /* VTTTalk Unicode 0x21a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8290,10 +8291,10 @@ OFFSET[R], 910, 14, 0
 SVTCA[Y]
 CALL[], 20, 0, 1, 1, -32, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni021B">
+
 /* VTTTalk Unicode 0x21b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8303,10 +8304,10 @@ OFFSET[R], 910, 14, 0
 SVTCA[Y]
 CALL[], 43, 26, 1, 1, -25, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni022A">
+
 /* VTTTalk Unicode 0x22a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8320,10 +8321,10 @@ SHC[2], 2
 SHC[2], 3
 CALL[], 56, 38, 1, 1, 84, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="uni022B">
+
 /* VTTTalk Unicode 0x22b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8337,10 +8338,10 @@ SHC[2], 2
 SHC[2], 3
 CALL[], 56, 38, 1, 1, 48, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="uni022C">
+
 /* VTTTalk Unicode 0x22c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8353,10 +8354,10 @@ CALL[], 36, 8, 1, 1, 113, 86
 SHC[2], 2
 CALL[], 56, 8, 1, 1, 251, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni022D">
+
 /* VTTTalk Unicode 0x22d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8369,10 +8370,10 @@ CALL[], 36, 8, 1, 1, 107, 86
 SHC[2], 2
 CALL[], 56, 48, 1, 1, 61, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni0230">
+
 /* VTTTalk Unicode 0x230 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8385,10 +8386,10 @@ CALL[], 32, 8, 1, 1, 66, 86
 SHC[2], 2
 CALL[], 44, 38, 1, 1, 47, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni0231">
+
 /* VTTTalk Unicode 0x231 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8401,10 +8402,10 @@ CALL[], 32, 8, 1, 1, 86, 86
 SHC[2], 2
 CALL[], 44, 38, 1, 1, 57, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni0232">
+
 /* VTTTalk Unicode 0x232 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8414,10 +8415,10 @@ OFFSET[R], 902, 0, 166
 SVTCA[Y]
 CALL[], 9, 2, 1, 1, 108, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni0233">
+
 /* VTTTalk Unicode 0x233 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -8427,10 +8428,10 @@ OFFSET[R], 902, 3, 0
 SVTCA[Y]
 CALL[], 33, 29, 1, 1, 108, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni0237">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 25, 15, 114
@@ -8440,10 +8441,10 @@ SRP1[], 25
 SHP[1], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni024D">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 6, 114
@@ -8459,10 +8460,10 @@ MDAP[R], 0
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0259">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 7, 114
@@ -8475,10 +8476,10 @@ MDAP[R], 34
 SHP[1], 18
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni027B">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 10, 11, 114
@@ -8490,10 +8491,10 @@ CALL[], 46, 15, 114
 SHP[2], 34
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0298">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 13, 114
@@ -8506,10 +8507,10 @@ MDAP[R], 32
 SHP[1], 38
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni029A">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 11, 114
@@ -8524,28 +8525,28 @@ SRP2[], 39
 IP[], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02B9">
+
 /* VTTTalk Unicode 0x2b9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 854, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni02BA">
+
 /* VTTTalk Unicode 0x2ba */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 854, 70, 0
 OFFSET[R], 854, -60, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni02BB">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 3, 114
@@ -8554,10 +8555,10 @@ SMD[], 192
 MDRP[m&gt;RGr], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02BC">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 13, 3, 114
@@ -8566,10 +8567,10 @@ MDRP[m&gt;RGr], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02BE">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -8578,10 +8579,10 @@ MDRP[m&gt;RGr], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02BF">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 8
@@ -8590,30 +8591,30 @@ MDRP[m&gt;RGr], 0
 SHP[2], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02C8">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
 MDRP[m&gt;RBl], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02C9">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 1, 2, 114
 SHP[2], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02CA">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -8621,30 +8622,30 @@ SMD[], 128
 MDRP[m&gt;RBl], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02CB">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
 MDRP[m&gt;RBl], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni02CC">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
 MDRP[m&gt;RBl], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0302">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -8658,10 +8659,10 @@ SRP1[], 2
 IP[], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0302.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -8675,95 +8676,95 @@ SRP1[], 2
 IP[], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni03020300">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 897, 8, 0
 OFFSET[R], 893, 130, 145
-
     </glyphProgram>
 
     <glyphProgram name="uni03020300.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 935, 0, 0
 OFFSET[R], 932, 0, 138
-
     </glyphProgram>
 
     <glyphProgram name="uni03020301">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 897, 6, 0
 OFFSET[R], 894, 137, 124
-
     </glyphProgram>
 
     <glyphProgram name="uni03020301.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 935, 0, 0
 OFFSET[R], 933, 174, 106
-
     </glyphProgram>
 
     <glyphProgram name="uni03020303">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 897, 9, 0
 USEMYMETRICS[]
 OFFSET[R], 950, 0, 141
-
     </glyphProgram>
 
     <glyphProgram name="uni03020303.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 935, 0, 0
 OFFSET[R], 950, -10, 250
-
     </glyphProgram>
 
     <glyphProgram name="uni03020309">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 897, 2, 0
 OFFSET[R], 903, 137, 100
-
     </glyphProgram>
 
     <glyphProgram name="uni03020309.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 935, 0, 0
 OFFSET[R], 903, 134, 226
-
     </glyphProgram>
 
     <glyphProgram name="uni0304">
+
 /* VTTTalk Unicode 0x304 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 927, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0306">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -8776,122 +8777,122 @@ SRP1[], 0
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0306.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 947, -4, 10
-
     </glyphProgram>
 
     <glyphProgram name="uni03060300">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 899, 0, 0
 OFFSET[R], 893, 8, 131
-
     </glyphProgram>
 
     <glyphProgram name="uni03060301">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 899, 0, 0
 OFFSET[R], 894, 8, 131
-
     </glyphProgram>
 
     <glyphProgram name="uni03060303">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 899, 0, 0
 OFFSET[R], 950, -1, 119
-
     </glyphProgram>
 
     <glyphProgram name="uni03060309">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 899, 0, 0
 OFFSET[R], 903, 17, 127
-
     </glyphProgram>
 
     <glyphProgram name="uni0307">
+
 /* VTTTalk Unicode 0x307 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 918, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0307.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 942, -15, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0308">
+
 /* VTTTalk Unicode 0x308 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 917, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0308.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 941, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni030A">
+
 /* VTTTalk Unicode 0x30a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 925, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni030A.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 948, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni030B">
+
 /* VTTTalk Unicode 0x30b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 921, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni030B.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 945, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni030C">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 5
@@ -8905,37 +8906,37 @@ SRP1[], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni030C.alt">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDRP[m&gt;RGr], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni030C.case">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 946, 10, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni030F">
+
 /* VTTTalk Unicode 0x30f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 893, -59, 0
 OFFSET[R], 893, 101, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0311">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -8948,20 +8949,20 @@ SRP1[], 8
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0312">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDRP[m&gt;RGr], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni031B">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -8970,10 +8971,10 @@ MDRP[m&gt;RBl], 4
 SHP[2], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni031B.case">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 5
@@ -8982,19 +8983,19 @@ MDRP[m&gt;RGr], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0324">
+
 /* VTTTalk Unicode 0x324 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 891, 0, -730
-
     </glyphProgram>
 
     <glyphProgram name="uni0326">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 11
@@ -9002,18 +9003,18 @@ MDRP[m&gt;RGr], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0327">
+
 /* VTTTalk Unicode 0x327 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 928, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0328">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -9021,56 +9022,56 @@ MDRP[m&gt;RGr], 1
 SHP[2], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni032E">
+
 /* VTTTalk Unicode 0x32e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 899, 0, -713
-
     </glyphProgram>
 
     <glyphProgram name="uni0331">
+
 /* VTTTalk Unicode 0x331 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 902, 0, -720
-
     </glyphProgram>
 
     <glyphProgram name="uni0335">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni0336">
+
 /* VTTTalk Unicode 0x336 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 OFFSET[R], 562, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni0375">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
 MDRP[m&gt;RBl], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni1E08">
+
 /* VTTTalk Unicode 0x1e08 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9083,10 +9084,10 @@ CALL[], 57, 41, 0, 0, 10, 86
 SHC[2], 1
 CALL[], 66, 11, 1, 1, 32, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E09">
+
 /* VTTTalk Unicode 0x1e09 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9099,10 +9100,10 @@ CALL[], 56, 40, 0, 0, 11, 86
 SHC[2], 1
 CALL[], 65, 10, 1, 1, 41, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E0C">
+
 /* VTTTalk Unicode 0x1e0c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9112,10 +9113,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 33, 0, 1, 1, -43, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E0D">
+
 /* VTTTalk Unicode 0x1e0d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9125,10 +9126,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 60, 26, 1, 1, -44, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E0E">
+
 /* VTTTalk Unicode 0x1e0e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9138,10 +9139,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 28, 0, 1, 1, -98, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E0F">
+
 /* VTTTalk Unicode 0x1e0f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9151,10 +9152,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 55, 26, 1, 1, -99, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E14">
+
 /* VTTTalk Unicode 0x1e14 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9167,10 +9168,10 @@ CALL[], 12, 1, 1, 1, 107, 86
 SHC[2], 1
 CALL[], 16, 12, 1, 1, 83, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E15">
+
 /* VTTTalk Unicode 0x1e15 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9183,10 +9184,10 @@ CALL[], 44, 10, 1, 1, 97, 86
 SHC[2], 2
 CALL[], 48, 44, 1, 1, 96, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E16">
+
 /* VTTTalk Unicode 0x1e16 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9199,10 +9200,10 @@ CALL[], 12, 1, 1, 1, 107, 86
 SHC[2], 1
 CALL[], 16, 12, 1, 1, 83, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E17">
+
 /* VTTTalk Unicode 0x1e17 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9215,10 +9216,10 @@ CALL[], 44, 10, 1, 1, 97, 86
 SHC[2], 2
 CALL[], 48, 44, 1, 1, 96, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E1C">
+
 /* VTTTalk Unicode 0x1e1c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9231,10 +9232,10 @@ CALL[], 27, 0, 1, 0, 0, 86
 SHC[2], 1
 CALL[], 40, 1, 1, 1, 47, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E1D">
+
 /* VTTTalk Unicode 0x1e1d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9247,10 +9248,10 @@ CALL[], 59, 0, 0, 0, 10, 86
 SHC[2], 2
 CALL[], 72, 10, 1, 1, 70, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E20">
+
 /* VTTTalk Unicode 0x1e20 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9260,10 +9261,10 @@ OFFSET[R], 902, 24, 166
 SVTCA[Y]
 CALL[], 49, 10, 1, 1, 101, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E21">
+
 /* VTTTalk Unicode 0x1e21 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9273,10 +9274,10 @@ OFFSET[R], 902, -24, 0
 SVTCA[Y]
 CALL[], 95, 63, 1, 1, 91, 86
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="uni1E24">
+
 /* VTTTalk Unicode 0x1e24 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9286,10 +9287,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 28, 17, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E25">
+
 /* VTTTalk Unicode 0x1e25 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9299,10 +9300,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 37, 17, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E2A">
+
 /* VTTTalk Unicode 0x1e2a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9312,10 +9313,10 @@ OFFSET[R], 913, 2, 0
 SVTCA[Y]
 CALL[], 22, 17, 1, 1, -59, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E2B">
+
 /* VTTTalk Unicode 0x1e2b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9325,10 +9326,10 @@ OFFSET[R], 913, 2, 0
 SVTCA[Y]
 CALL[], 31, 17, 1, 1, -59, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E2E">
+
 /* VTTTalk Unicode 0x1e2e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9342,10 +9343,10 @@ SHC[2], 1
 SHC[2], 2
 CALL[], 36, 18, 1, 0, 13, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E2F">
+
 /* VTTTalk Unicode 0x1e2f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9359,10 +9360,10 @@ SHC[2], 1
 SHC[2], 2
 CALL[], 34, 16, 1, 0, -10, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E36">
+
 /* VTTTalk Unicode 0x1e36 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9372,10 +9373,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 17, 10, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E37">
+
 /* VTTTalk Unicode 0x1e37 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9385,10 +9386,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 16, 0, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E3A">
+
 /* VTTTalk Unicode 0x1e3a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9398,10 +9399,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 12, 10, 1, 1, -99, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E3B">
+
 /* VTTTalk Unicode 0x1e3b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9411,10 +9412,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 11, 0, 1, 1, -99, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E42">
+
 /* VTTTalk Unicode 0x1e42 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9424,10 +9425,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 19, 7, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E43">
+
 /* VTTTalk Unicode 0x1e43 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9437,10 +9438,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 50, 33, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E44">
+
 /* VTTTalk Unicode 0x1e44 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9450,10 +9451,10 @@ OFFSET[R], 931, -1, 0
 SVTCA[Y]
 CALL[], 15, 3, 1, 1, 70, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E45">
+
 /* VTTTalk Unicode 0x1e45 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9463,10 +9464,10 @@ OFFSET[R], 892, 10, 0
 SVTCA[Y]
 CALL[], 25, 7, 1, 1, 85, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E46">
+
 /* VTTTalk Unicode 0x1e46 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9476,10 +9477,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 21, 11, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E47">
+
 /* VTTTalk Unicode 0x1e47 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9489,10 +9490,10 @@ OFFSET[R], 908, 21, 0
 SVTCA[Y]
 CALL[], 31, 13, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E48">
+
 /* VTTTalk Unicode 0x1e48 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9502,10 +9503,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 16, 14, 1, 1, -99, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E49">
+
 /* VTTTalk Unicode 0x1e49 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9515,10 +9516,10 @@ OFFSET[R], 914, 12, 0
 SVTCA[Y]
 CALL[], 26, 0, 1, 1, -99, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E4C">
+
 /* VTTTalk Unicode 0x1e4c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9531,10 +9532,10 @@ CALL[], 36, 8, 1, 1, 61, 86
 SHC[2], 2
 CALL[], 56, 8, 1, 1, 188, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E4D">
+
 /* VTTTalk Unicode 0x1e4d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9547,10 +9548,10 @@ CALL[], 36, 8, 1, 1, 107, 86
 SHC[2], 2
 CALL[], 56, 48, 1, 0, 3, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E4E">
+
 /* VTTTalk Unicode 0x1e4e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9564,10 +9565,10 @@ SHC[2], 2
 CALL[], 56, 8, 1, 1, 216, 86
 SHC[2], 3
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="uni1E4F">
+
 /* VTTTalk Unicode 0x1e4f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9581,10 +9582,10 @@ SHC[2], 2
 CALL[], 56, 48, 1, 1, 60, 86
 SHC[2], 3
 SHC[2], 4
-
     </glyphProgram>
 
     <glyphProgram name="uni1E50">
+
 /* VTTTalk Unicode 0x1e50 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9597,10 +9598,10 @@ CALL[], 32, 8, 1, 1, 104, 86
 SHC[2], 2
 CALL[], 36, 8, 1, 1, 187, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E51">
+
 /* VTTTalk Unicode 0x1e51 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9613,10 +9614,10 @@ CALL[], 32, 8, 1, 1, 98, 86
 SHC[2], 2
 CALL[], 36, 33, 1, 1, 40, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E52">
+
 /* VTTTalk Unicode 0x1e52 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9629,10 +9630,10 @@ CALL[], 32, 8, 1, 1, 104, 86
 SHC[2], 2
 CALL[], 36, 8, 1, 1, 187, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E53">
+
 /* VTTTalk Unicode 0x1e53 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9645,10 +9646,10 @@ CALL[], 32, 8, 1, 1, 98, 86
 SHC[2], 2
 CALL[], 36, 33, 1, 1, 40, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E5A">
+
 /* VTTTalk Unicode 0x1e5a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9658,10 +9659,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 32, 12, 1, 1, -44, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E5B">
+
 /* VTTTalk Unicode 0x1e5b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9671,10 +9672,10 @@ OFFSET[R], 908, 31, 0
 SVTCA[Y]
 CALL[], 34, 27, 1, 1, -43, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E5E">
+
 /* VTTTalk Unicode 0x1e5e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9684,10 +9685,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 27, 0, 1, 1, -99, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E5F">
+
 /* VTTTalk Unicode 0x1e5f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9697,10 +9698,10 @@ OFFSET[R], 914, 22, 0
 SVTCA[Y]
 CALL[], 29, 27, 1, 1, -98, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E60">
+
 /* VTTTalk Unicode 0x1e60 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9710,10 +9711,10 @@ OFFSET[R], 931, 10, 0
 SVTCA[Y]
 CALL[], 65, 31, 1, 1, 62, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E61">
+
 /* VTTTalk Unicode 0x1e61 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9723,10 +9724,10 @@ OFFSET[R], 892, 0, 0
 SVTCA[Y]
 CALL[], 60, 30, 1, 1, 85, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E62">
+
 /* VTTTalk Unicode 0x1e62 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9736,10 +9737,10 @@ OFFSET[R], 908, 8, 0
 SVTCA[Y]
 CALL[], 71, 64, 1, 1, -34, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E63">
+
 /* VTTTalk Unicode 0x1e63 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9749,10 +9750,10 @@ OFFSET[R], 908, 0, 0
 SVTCA[Y]
 CALL[], 66, 59, 1, 1, -34, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E64">
+
 /* VTTTalk Unicode 0x1e64 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9765,10 +9766,10 @@ CALL[], 65, 31, 1, 1, 29, 86
 SHC[2], 1
 CALL[], 69, 31, 1, 1, 180, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E65">
+
 /* VTTTalk Unicode 0x1e65 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9781,10 +9782,10 @@ CALL[], 60, 30, 1, 1, 39, 86
 SHC[2], 1
 CALL[], 64, 62, 1, 1, 23, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E66">
+
 /* VTTTalk Unicode 0x1e66 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9797,10 +9798,10 @@ CALL[], 68, 31, 1, 1, 26, 86
 SHC[2], 1
 CALL[], 72, 31, 1, 1, 220, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E67">
+
 /* VTTTalk Unicode 0x1e67 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9813,10 +9814,10 @@ CALL[], 65, 30, 1, 1, 46, 86
 SHC[2], 1
 CALL[], 67, 60, 1, 0, 12, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E68">
+
 /* VTTTalk Unicode 0x1e68 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9829,10 +9830,10 @@ CALL[], 71, 64, 1, 1, -34, 86
 SHC[2], 1
 CALL[], 77, 31, 1, 1, 62, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E69">
+
 /* VTTTalk Unicode 0x1e69 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9845,10 +9846,10 @@ CALL[], 66, 59, 1, 1, -34, 86
 SHC[2], 1
 CALL[], 72, 30, 1, 1, 85, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E6C">
+
 /* VTTTalk Unicode 0x1e6c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9858,10 +9859,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 14, 0, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E6D">
+
 /* VTTTalk Unicode 0x1e6d */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9871,10 +9872,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 37, 26, 1, 1, -37, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E6E">
+
 /* VTTTalk Unicode 0x1e6e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9884,10 +9885,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 9, 0, 1, 1, -99, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E6F">
+
 /* VTTTalk Unicode 0x1e6f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9897,10 +9898,10 @@ OFFSET[R], 914, 2, 0
 SVTCA[Y]
 CALL[], 32, 26, 1, 0, -92, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E78">
+
 /* VTTTalk Unicode 0x1e78 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9913,10 +9914,10 @@ CALL[], 29, 18, 1, 1, 65, 86
 SHC[2], 1
 CALL[], 49, 18, 1, 1, 192, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E79">
+
 /* VTTTalk Unicode 0x1e79 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9929,10 +9930,10 @@ CALL[], 39, 20, 1, 1, 117, 86
 SHC[2], 1
 CALL[], 59, 51, 1, 0, 3, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E7A">
+
 /* VTTTalk Unicode 0x1e7a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9946,10 +9947,10 @@ SHC[2], 1
 CALL[], 29, 26, 1, 1, 55, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E7B">
+
 /* VTTTalk Unicode 0x1e7b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9963,10 +9964,10 @@ SHC[2], 1
 CALL[], 39, 36, 1, 1, 97, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E8E">
+
 /* VTTTalk Unicode 0x1e8e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9976,10 +9977,10 @@ OFFSET[R], 931, -1, 0
 SVTCA[Y]
 CALL[], 9, 5, 1, 1, 70, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E8F">
+
 /* VTTTalk Unicode 0x1e8f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -9989,10 +9990,10 @@ OFFSET[R], 892, -2, 0
 SVTCA[Y]
 CALL[], 33, 20, 1, 1, 96, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1E92">
+
 /* VTTTalk Unicode 0x1e92 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10002,10 +10003,10 @@ OFFSET[R], 908, 31, 0
 SVTCA[Y]
 CALL[], 21, 14, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E93">
+
 /* VTTTalk Unicode 0x1e93 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10015,10 +10016,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 21, 14, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1E97">
+
 /* VTTTalk Unicode 0x1e97 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10029,10 +10030,10 @@ SVTCA[Y]
 CALL[], 31, 8, 1, 1, 106, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1E9E">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -10050,10 +10051,10 @@ SRP1[], 43
 SHP[1], 42
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA0">
+
 /* VTTTalk Unicode 0x1ea0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10063,10 +10064,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 17, 10, 1, 1, -44, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA1">
+
 /* VTTTalk Unicode 0x1ea1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10076,10 +10077,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 62, 0, 1, 1, -33, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA2">
+
 /* VTTTalk Unicode 0x1ea2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10089,10 +10090,10 @@ OFFSET[R], 903, 15, 166
 SVTCA[Y]
 CALL[], 18, 7, 1, 1, 55, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA3">
+
 /* VTTTalk Unicode 0x1ea3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10102,10 +10103,10 @@ OFFSET[R], 903, 15, 0
 SVTCA[Y]
 CALL[], 63, 43, 1, 1, 56, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA4">
+
 /* VTTTalk Unicode 0x1ea4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10119,10 +10120,10 @@ SHC[2], 2
 
 CALL[], 19, 11, 1, 1, 153, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA5">
+
 /* VTTTalk Unicode 0x1ea5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10135,10 +10136,10 @@ SHC[2], 1
 
 CALL[], 63, 56, 1, 1, 120, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA6">
+
 /* VTTTalk Unicode 0x1ea6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10154,10 +10155,10 @@ SHC[2], 2
 
 CALL[], 18, 11, 1, 1, 143, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA7">
+
 /* VTTTalk Unicode 0x1ea7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10170,10 +10171,10 @@ SHC[2], 1
 
 CALL[], 63, 56, 1, 1, 141, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA8">
+
 /* VTTTalk Unicode 0x1ea8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10188,10 +10189,10 @@ SHC[2], 2
 
 CALL[], 25, 11, 1, 1, 94, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EA9">
+
 /* VTTTalk Unicode 0x1ea9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10204,10 +10205,10 @@ SHC[2], 1
 
 CALL[], 70, 56, 1, 1, 112, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EAA">
+
 /* VTTTalk Unicode 0x1eaa */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10223,10 +10224,10 @@ SHC[2], 2
 
 CALL[], 22, 11, 1, 1, 169, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EAB">
+
 /* VTTTalk Unicode 0x1eab */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10239,10 +10240,10 @@ SHC[2], 1
 
 CALL[], 67, 56, 1, 1, 204, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EAC">
+
 /* VTTTalk Unicode 0x1eac */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10255,10 +10256,10 @@ CALL[], 17, 10, 1, 1, -44, 86
 SHC[2], 2
 CALL[], 23, 7, 1, 1, 21, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EAD">
+
 /* VTTTalk Unicode 0x1ead */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10271,10 +10272,10 @@ CALL[], 62, 0, 1, 1, -33, 86
 SHC[2], 1
 CALL[], 68, 43, 1, 1, 44, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EAE">
+
 /* VTTTalk Unicode 0x1eae */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10289,10 +10290,10 @@ CALL[], 15, 7, 1, 1, 37, 86
 SHC[2], 2
 CALL[], 26, 22, 1, 1, 52, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EAF">
+
 /* VTTTalk Unicode 0x1eaf */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10305,10 +10306,10 @@ SHC[2], 1
 
 CALL[], 71, 60, 1, 1, 100, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB0">
+
 /* VTTTalk Unicode 0x1eb0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10323,10 +10324,10 @@ CALL[], 15, 7, 1, 1, 37, 86
 SHC[2], 2
 CALL[], 26, 22, 1, 1, 105, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB1">
+
 /* VTTTalk Unicode 0x1eb1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10339,10 +10340,10 @@ SHC[2], 1
 
 CALL[], 71, 60, 1, 1, 100, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB2">
+
 /* VTTTalk Unicode 0x1eb2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10357,10 +10358,10 @@ CALL[], 15, 7, 1, 1, 37, 86
 SHC[2], 2
 CALL[], 33, 22, 1, 1, 51, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB3">
+
 /* VTTTalk Unicode 0x1eb3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10373,10 +10374,10 @@ SHC[2], 1
 
 CALL[], 78, 60, 1, 1, 112, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB4">
+
 /* VTTTalk Unicode 0x1eb4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10391,10 +10392,10 @@ SHC[2], 2
 
 CALL[], 30, 22, 1, 1, 102, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB5">
+
 /* VTTTalk Unicode 0x1eb5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10407,10 +10408,10 @@ SHC[2], 1
 
 CALL[], 75, 60, 1, 1, 155, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB6">
+
 /* VTTTalk Unicode 0x1eb6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10423,10 +10424,10 @@ CALL[], 17, 10, 1, 1, -44, 86
 SHC[2], 2
 CALL[], 27, 7, 1, 1, 37, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB7">
+
 /* VTTTalk Unicode 0x1eb7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10439,10 +10440,10 @@ CALL[], 62, 0, 1, 1, -33, 86
 SHC[2], 1
 CALL[], 72, 43, 1, 1, 71, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB8">
+
 /* VTTTalk Unicode 0x1eb8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10452,10 +10453,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 18, 0, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EB9">
+
 /* VTTTalk Unicode 0x1eb9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10465,10 +10466,10 @@ OFFSET[R], 908, 41, 0
 SVTCA[Y]
 CALL[], 50, 0, 1, 1, -34, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EBA">
+
 /* VTTTalk Unicode 0x1eba */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10478,10 +10479,10 @@ OFFSET[R], 903, 24, 166
 SVTCA[Y]
 CALL[], 19, 1, 1, 1, 65, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EBB">
+
 /* VTTTalk Unicode 0x1ebb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10491,10 +10492,10 @@ OFFSET[R], 903, 25, 0
 SVTCA[Y]
 CALL[], 51, 10, 1, 1, 55, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EBC">
+
 /* VTTTalk Unicode 0x1ebc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10504,10 +10505,10 @@ OFFSET[R], 939, 8, 0
 SVTCA[Y]
 CALL[], 16, 1, 1, 1, 64, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EBD">
+
 /* VTTTalk Unicode 0x1ebd */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10517,10 +10518,10 @@ OFFSET[R], 901, 0, 0
 SVTCA[Y]
 CALL[], 48, 10, 1, 1, 106, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EBE">
+
 /* VTTTalk Unicode 0x1ebe */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10533,10 +10534,10 @@ SHC[2], 1
 
 CALL[], 19, 12, 1, 1, 111, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EBF">
+
 /* VTTTalk Unicode 0x1ebf */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10550,10 +10551,10 @@ SHC[2], 2
 CALL[], 51, 44, 1, 1, 120, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC0">
+
 /* VTTTalk Unicode 0x1ec0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10567,10 +10568,10 @@ SHC[2], 1
 
 CALL[], 19, 1, 1, 1, 174, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC1">
+
 /* VTTTalk Unicode 0x1ec1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10585,10 +10586,10 @@ SHC[2], 2
 CALL[], 51, 44, 1, 1, 141, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC2">
+
 /* VTTTalk Unicode 0x1ec2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10602,10 +10603,10 @@ SHC[2], 1
 CALL[], 26, 12, 1, 1, 94, 86
 
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC3">
+
 /* VTTTalk Unicode 0x1ec3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10620,10 +10621,10 @@ SHC[2], 2
 CALL[], 58, 44, 1, 1, 112, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC4">
+
 /* VTTTalk Unicode 0x1ec4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10637,10 +10638,10 @@ SHC[2], 1
 CALL[], 23, 1, 1, 1, 200, 86
 
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC5">
+
 /* VTTTalk Unicode 0x1ec5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10655,10 +10656,10 @@ SHC[2], 2
 CALL[], 55, 44, 1, 1, 204, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC6">
+
 /* VTTTalk Unicode 0x1ec6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10671,10 +10672,10 @@ CALL[], 18, 0, 1, 1, -44, 86
 SHC[2], 1
 CALL[], 24, 1, 1, 1, 31, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC7">
+
 /* VTTTalk Unicode 0x1ec7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10687,10 +10688,10 @@ CALL[], 50, 0, 1, 1, -34, 86
 SHC[2], 2
 CALL[], 56, 10, 1, 1, 43, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC8">
+
 /* VTTTalk Unicode 0x1ec8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10700,10 +10701,10 @@ OFFSET[R], 903, 4, 166
 SVTCA[Y]
 CALL[], 19, 5, 1, 1, 66, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EC9">
+
 /* VTTTalk Unicode 0x1ec9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10713,10 +10714,10 @@ OFFSET[R], 903, 15, 0
 SVTCA[Y]
 CALL[], 17, 5, 1, 1, 66, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1ECA">
+
 /* VTTTalk Unicode 0x1eca */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10726,10 +10727,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 18, 0, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1ECB">
+
 /* VTTTalk Unicode 0x1ecb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10739,10 +10740,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 28, 0, 1, 1, -44, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1ECC">
+
 /* VTTTalk Unicode 0x1ecc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10752,10 +10753,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 38, 0, 1, 1, -33, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1ECD">
+
 /* VTTTalk Unicode 0x1ecd */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10765,10 +10766,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 38, 0, 1, 1, -36, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1ECE">
+
 /* VTTTalk Unicode 0x1ece */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10778,10 +10779,10 @@ OFFSET[R], 903, 15, 166
 SVTCA[Y]
 CALL[], 39, 8, 1, 1, 62, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1ECF">
+
 /* VTTTalk Unicode 0x1ecf */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10791,10 +10792,10 @@ OFFSET[R], 903, 15, 0
 SVTCA[Y]
 CALL[], 39, 8, 1, 1, 56, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED0">
+
 /* VTTTalk Unicode 0x1ed0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10808,10 +10809,10 @@ SHC[2], 2
 CALL[], 39, 8, 1, 1, 139, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED1">
+
 /* VTTTalk Unicode 0x1ed1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10825,10 +10826,10 @@ SHC[2], 2
 CALL[], 39, 32, 1, 1, 120, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED2">
+
 /* VTTTalk Unicode 0x1ed2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10843,10 +10844,10 @@ SHC[2], 2
 CALL[], 39, 8, 1, 1, 171, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED3">
+
 /* VTTTalk Unicode 0x1ed3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10860,10 +10861,10 @@ SHC[2], 2
 CALL[], 39, 32, 1, 1, 141, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED4">
+
 /* VTTTalk Unicode 0x1ed4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10877,10 +10878,10 @@ SHC[2], 2
 CALL[], 46, 8, 1, 1, 122, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED5">
+
 /* VTTTalk Unicode 0x1ed5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10894,10 +10895,10 @@ SHC[2], 2
 CALL[], 46, 32, 1, 1, 112, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED6">
+
 /* VTTTalk Unicode 0x1ed6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10913,10 +10914,10 @@ SHC[2], 2
 CALL[], 43, 8, 1, 1, 197, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED7">
+
 /* VTTTalk Unicode 0x1ed7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10930,10 +10931,10 @@ SHC[2], 2
 CALL[], 43, 32, 1, 1, 204, 86
 
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED8">
+
 /* VTTTalk Unicode 0x1ed8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10946,10 +10947,10 @@ CALL[], 38, 0, 1, 1, -33, 86
 SHC[2], 2
 CALL[], 44, 8, 1, 1, 28, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1ED9">
+
 /* VTTTalk Unicode 0x1ed9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10962,10 +10963,10 @@ CALL[], 38, 0, 1, 1, -36, 86
 SHC[2], 2
 CALL[], 44, 8, 1, 1, 44, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EDA">
+
 /* VTTTalk Unicode 0x1eda */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10975,10 +10976,10 @@ OFFSET[R], 933, -19, 0
 SVTCA[Y]
 CALL[], 42, 8, 1, 1, 33, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EDB">
+
 /* VTTTalk Unicode 0x1edb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -10988,10 +10989,10 @@ OFFSET[R], 894, -11, 0
 SVTCA[Y]
 CALL[], 41, 8, 1, 1, 40, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EDC">
+
 /* VTTTalk Unicode 0x1edc */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11001,10 +11002,10 @@ OFFSET[R], 932, -14, 0
 SVTCA[Y]
 CALL[], 42, 8, 1, 1, 33, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EDD">
+
 /* VTTTalk Unicode 0x1edd */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11014,10 +11015,10 @@ OFFSET[R], 893, -11, 0
 SVTCA[Y]
 CALL[], 41, 8, 1, 1, 40, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EDE">
+
 /* VTTTalk Unicode 0x1ede */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11027,10 +11028,10 @@ OFFSET[R], 903, 15, 166
 SVTCA[Y]
 CALL[], 49, 8, 1, 1, 62, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EDF">
+
 /* VTTTalk Unicode 0x1edf */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11040,10 +11041,10 @@ OFFSET[R], 903, 15, 0
 SVTCA[Y]
 CALL[], 48, 8, 1, 1, 56, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE0">
+
 /* VTTTalk Unicode 0x1ee0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11053,10 +11054,10 @@ OFFSET[R], 939, -1, 0
 SVTCA[Y]
 CALL[], 46, 8, 1, 1, 61, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE1">
+
 /* VTTTalk Unicode 0x1ee1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11066,10 +11067,10 @@ OFFSET[R], 901, -10, 0
 SVTCA[Y]
 CALL[], 45, 8, 1, 1, 107, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE2">
+
 /* VTTTalk Unicode 0x1ee2 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11079,10 +11080,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 48, 0, 1, 1, -33, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE3">
+
 /* VTTTalk Unicode 0x1ee3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11092,10 +11093,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 47, 0, 1, 1, -36, 86
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE4">
+
 /* VTTTalk Unicode 0x1ee4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11105,10 +11106,10 @@ OFFSET[R], 908, 11, 0
 SVTCA[Y]
 CALL[], 31, 24, 1, 1, -33, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE5">
+
 /* VTTTalk Unicode 0x1ee5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11118,10 +11119,10 @@ OFFSET[R], 908, -8, 0
 SVTCA[Y]
 CALL[], 41, 0, 1, 1, -33, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE6">
+
 /* VTTTalk Unicode 0x1ee6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11131,10 +11132,10 @@ OFFSET[R], 903, 15, 166
 SVTCA[Y]
 CALL[], 32, 18, 1, 1, 66, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE7">
+
 /* VTTTalk Unicode 0x1ee7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11144,10 +11145,10 @@ OFFSET[R], 903, 15, 0
 SVTCA[Y]
 CALL[], 42, 20, 1, 1, 66, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE8">
+
 /* VTTTalk Unicode 0x1ee8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11157,10 +11158,10 @@ OFFSET[R], 933, -46, 0
 SVTCA[Y]
 CALL[], 35, 4, 1, 1, 37, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EE9">
+
 /* VTTTalk Unicode 0x1ee9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11170,10 +11171,10 @@ OFFSET[R], 894, -31, 0
 SVTCA[Y]
 CALL[], 44, 20, 1, 1, 50, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EEA">
+
 /* VTTTalk Unicode 0x1eea */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11183,10 +11184,10 @@ OFFSET[R], 932, -41, 0
 SVTCA[Y]
 CALL[], 35, 18, 1, 1, 37, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EEB">
+
 /* VTTTalk Unicode 0x1eeb */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11196,10 +11197,10 @@ OFFSET[R], 893, -31, 0
 SVTCA[Y]
 CALL[], 44, 20, 1, 1, 50, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EEC">
+
 /* VTTTalk Unicode 0x1eec */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11209,10 +11210,10 @@ OFFSET[R], 903, -12, 166
 SVTCA[Y]
 CALL[], 42, 18, 1, 1, 66, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EED">
+
 /* VTTTalk Unicode 0x1eed */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11222,10 +11223,10 @@ OFFSET[R], 903, -5, 0
 SVTCA[Y]
 CALL[], 51, 20, 1, 1, 66, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EEE">
+
 /* VTTTalk Unicode 0x1eee */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11235,10 +11236,10 @@ OFFSET[R], 939, -28, 0
 SVTCA[Y]
 CALL[], 39, 18, 1, 1, 65, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EEF">
+
 /* VTTTalk Unicode 0x1eef */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11248,10 +11249,10 @@ OFFSET[R], 950, -30, 0
 SVTCA[Y]
 CALL[], 48, 20, 1, 1, 117, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF0">
+
 /* VTTTalk Unicode 0x1ef0 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11261,10 +11262,10 @@ OFFSET[R], 908, -17, 0
 SVTCA[Y]
 CALL[], 41, 24, 1, 1, -33, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF1">
+
 /* VTTTalk Unicode 0x1ef1 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11274,10 +11275,10 @@ OFFSET[R], 908, -19, 0
 SVTCA[Y]
 CALL[], 50, 0, 1, 1, -33, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF4">
+
 /* VTTTalk Unicode 0x1ef4 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11287,10 +11288,10 @@ OFFSET[R], 908, 19, 0
 SVTCA[Y]
 CALL[], 15, 0, 1, 1, -44, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF5">
+
 /* VTTTalk Unicode 0x1ef5 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11300,10 +11301,10 @@ OFFSET[R], 908, 131, 0
 SVTCA[Y]
 CALL[], 33, 28, 1, 1, 27, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF6">
+
 /* VTTTalk Unicode 0x1ef6 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11313,10 +11314,10 @@ OFFSET[R], 903, 15, 166
 SVTCA[Y]
 CALL[], 16, 5, 1, 1, 66, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF7">
+
 /* VTTTalk Unicode 0x1ef7 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11326,10 +11327,10 @@ OFFSET[R], 903, 18, 0
 SVTCA[Y]
 CALL[], 40, 20, 1, 1, 66, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF8">
+
 /* VTTTalk Unicode 0x1ef8 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11339,10 +11340,10 @@ OFFSET[R], 939, -1, 0
 SVTCA[Y]
 CALL[], 13, 5, 1, 1, 65, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="uni1EF9">
+
 /* VTTTalk Unicode 0x1ef9 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -11352,53 +11353,53 @@ OFFSET[R], 901, -7, 0
 SVTCA[Y]
 CALL[], 37, 20, 1, 1, 117, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="uni2007">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="uni2008">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="uni2009">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="uni200A">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="uni200B">
-/* VTT 6.32 compiler */
 
+/* VTT 6.32 compiler */
     </glyphProgram>
 
     <glyphProgram name="uni2010">
+
 /* VTTTalk Unicode 0x2010 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 562, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni2015">
+
 /* VTTTalk Unicode 0x2015 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 565, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni2070">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 12, 5, 114
@@ -11409,10 +11410,10 @@ SLOOP[], 4
 IP[], 3, 0, 2, 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2070.ss02">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 8, 5, 114
@@ -11421,10 +11422,10 @@ MIRP[m&lt;RGr], 0, 119
 SHP[2], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2070.zero">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 20, 5, 114
@@ -11436,10 +11437,10 @@ MDAP[R], 0
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2074">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 4, 5
@@ -11456,10 +11457,10 @@ SRP1[], 6
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2075">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 26, 5
@@ -11472,10 +11473,10 @@ SHP[1], 30
 SHP[2], 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2076">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 7, 5, 114
@@ -11487,10 +11488,10 @@ MDAP[R], 28
 SHP[1], 46
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2077">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 6, 4, 114
@@ -11500,10 +11501,10 @@ SRP1[], 5
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2078">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 14, 5, 114
@@ -11514,10 +11515,10 @@ SLOOP[], 4
 IP[], 7, 45, 21, 37
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2079">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 44, 5, 114
@@ -11528,136 +11529,136 @@ MDAP[R], 36
 SHP[1], 28
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni207B">
+
 /* VTTTalk Unicode 0x207b */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 622, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni207F">
+
 /* VTTTalk Unicode 0x207f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 346, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni2080">
+
 /* VTTTalk Unicode 0x2080 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 516, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni2080.ss02">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 533, 0, -262
-
     </glyphProgram>
 
     <glyphProgram name="uni2080.zero">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 537, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni2081">
+
 /* VTTTalk Unicode 0x2081 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 517, 0, -263
-
     </glyphProgram>
 
     <glyphProgram name="uni2082">
+
 /* VTTTalk Unicode 0x2082 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 518, 0, -253
-
     </glyphProgram>
 
     <glyphProgram name="uni2083">
+
 /* VTTTalk Unicode 0x2083 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 519, 0, -261
-
     </glyphProgram>
 
     <glyphProgram name="uni2084">
+
 /* VTTTalk Unicode 0x2084 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 520, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni2085">
+
 /* VTTTalk Unicode 0x2085 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 521, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni2086">
+
 /* VTTTalk Unicode 0x2086 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 522, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni2087">
+
 /* VTTTalk Unicode 0x2087 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 523, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni2088">
+
 /* VTTTalk Unicode 0x2088 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 524, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni2089">
+
 /* VTTTalk Unicode 0x2089 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 525, 0, -252
-
     </glyphProgram>
 
     <glyphProgram name="uni20A6">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 4, 114
@@ -11674,10 +11675,10 @@ SHP[1], 1
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20A9">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 4, 12
@@ -11697,10 +11698,10 @@ IP[], 15
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20AD">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 11, 12
@@ -11721,10 +11722,10 @@ SRP1[], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20B1">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 16, 12
@@ -11745,10 +11746,10 @@ MDRP[m&gt;RGr], 30
 SHP[2], 28
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20B2">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 13, 114
@@ -11763,10 +11764,10 @@ MDAP[R], 43
 SHP[1], 42
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20B5">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 15, 5, 114
@@ -11777,10 +11778,10 @@ MDRP[m&gt;RBl], 0
 SHP[1], 37
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20B9">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 22, 12
@@ -11797,10 +11798,10 @@ SRP1[], 24
 SHP[1], 20
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20BA">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 8, 12
@@ -11826,10 +11827,10 @@ MDAP[R], 3
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20BC">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -11843,10 +11844,10 @@ IP[], 0
 MDAP[R], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni20BD">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 8, 12
@@ -11863,10 +11864,10 @@ MDRP[m&gt;RGr], 5
 SHP[2], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2113">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 11, 19, 114
@@ -11881,10 +11882,10 @@ SLOOP[], 4
 IP[], 17, 40, 26, 55
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2116">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 0, 12
@@ -11903,10 +11904,10 @@ MDRP[m&gt;RWh], 16
 SHP[2], 15
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2124">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 9, 8
@@ -11924,10 +11925,10 @@ SRP1[], 13
 SHP[1], 18
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2126">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 11, 18, 114
@@ -11943,10 +11944,10 @@ CALL[], 22, 1, 114
 SHP[2], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2196">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -11956,10 +11957,10 @@ SLOOP[], 8
 IP[], 0, 4, 3, 2, 9, 8, 7, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2197">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -11969,10 +11970,10 @@ SLOOP[], 8
 IP[], 0, 7, 6, 8, 1, 2, 3, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2198">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -11982,10 +11983,10 @@ SLOOP[], 8
 IP[], 0, 3, 4, 7, 8, 9, 2, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2199">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -11995,10 +11996,10 @@ SLOOP[], 8
 IP[], 0, 6, 7, 8, 1, 2, 3, 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni21E6">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -12023,10 +12024,10 @@ SLOOP[], 3
 IP[], 5, 14, 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni21E7">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12045,10 +12046,10 @@ SHP[1], 6
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni21E8">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12072,10 +12073,10 @@ SLOOP[], 3
 IP[], 5, 15, 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni21E9">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12097,10 +12098,10 @@ SRP1[], 13
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni21EA">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -12127,10 +12128,10 @@ SRP1[], 20
 SHP[1], 14
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2206">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 1, 114
@@ -12143,10 +12144,10 @@ SHP[1], 1
 SHP[1], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2215">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12155,20 +12156,20 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2219">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2318">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -12206,10 +12207,10 @@ SRP1[], 83
 SHP[1], 34
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2325">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12221,10 +12222,10 @@ SRP1[], 9
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2326">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 3
@@ -12237,10 +12238,10 @@ SLOOP[], 14
 IP[], 14, 12, 11, 15, 13, 1, 10, 16, 6, 19, 21, 17, 18, 20
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2327">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12253,10 +12254,10 @@ SLOOP[], 8
 IP[], 16, 18, 17, 14, 8, 11, 12, 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni232B">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12269,10 +12270,10 @@ SLOOP[], 14
 IP[], 18, 20, 21, 17, 19, 4, 16, 10, 9, 13, 15, 11, 14, 12
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni238B">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12289,10 +12290,10 @@ SRP1[], 41
 SHP[1], 40
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni23CE">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 14
@@ -12324,10 +12325,10 @@ SRP1[], 18
 SHP[1], 19
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2423">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12337,20 +12338,20 @@ MDRP[m&gt;RBl], 1
 SHP[2], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni25C6">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
 MDAP[R], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni25C7">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -12360,20 +12361,20 @@ SRP1[], 2
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni25CF">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 SHP[2], 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2639">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 10
@@ -12385,10 +12386,10 @@ SLOOP[], 6
 IP[], 47, 40, 67, 55, 61, 73
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2713">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12397,10 +12398,10 @@ SLOOP[], 4
 IP[], 9, 7, 8, 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2714">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12409,19 +12410,19 @@ SLOOP[], 6
 IP[], 6, 9, 10, 7, 8, 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2715">
+
 /* VTTTalk Unicode 0x2715 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 623, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="uni2717">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12429,10 +12430,10 @@ MDAP[R], 14
 SHP[2], 10
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2718">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 14
@@ -12442,10 +12443,10 @@ SRP1[], 14
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2B05">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12460,10 +12461,10 @@ IP[], 4
 IP[], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2B06">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 4
@@ -12477,10 +12478,10 @@ SRP1[], 7
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2B07">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 1
@@ -12494,10 +12495,10 @@ SRP1[], 8
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2B95">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12512,10 +12513,10 @@ IP[], 6
 IP[], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uni2E12">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 9
@@ -12525,10 +12526,10 @@ MDRP[m&gt;RWh], 0
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uniFFFD">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 2
@@ -12538,10 +12539,10 @@ SLOOP[], 5
 IP[], 8, 14, 55, 44, 31
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uogonek">
+
 /* VTTTalk Unicode 0x173 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -12551,10 +12552,10 @@ OFFSET[R], 912, 129, 0
 SVTCA[Y]
 CALL[], 44, 26, 0, 0, 17, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="updblhorzsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12567,10 +12568,10 @@ SRP1[], 3
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="updblleftsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12582,10 +12583,10 @@ SRP1[], 3
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="updblrightsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12597,30 +12598,30 @@ SRP1[], 1
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upeighthblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uphalfblock">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upheavydnhorzlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12633,10 +12634,10 @@ SRP1[], 3
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upheavyhorzlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12646,10 +12647,10 @@ SRP1[], 1
 SHP[1], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upheavyleftdnlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12660,10 +12661,10 @@ SHP[1], 3
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upheavyleftlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12671,10 +12672,10 @@ MDAP[R], 3
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upheavyrightdnlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12685,10 +12686,10 @@ SHP[1], 5
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upheavyrightlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12696,70 +12697,70 @@ MDAP[R], 1
 SHP[2], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upleftdnleftdnrightquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upleftdnrightquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upleftquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upleftuprightdnleftquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upleftuprightdnrightquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uplightdnhorzheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uplighthorzheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12769,20 +12770,20 @@ SHP[1], 5
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uplightleftdnheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uplightleftheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12790,20 +12791,20 @@ SHP[2], 2
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uplightrightdnheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uplightrightheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12811,20 +12812,20 @@ SHP[2], 3
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uprightdnleftdnrightquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uprightdnleftquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12834,20 +12835,20 @@ MDAP[R], 4
 SHP[1], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uprightquadrant">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upsnghorzdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12860,10 +12861,10 @@ SHP[1], 9
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upsngleftdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12874,10 +12875,10 @@ SHP[1], 5
 SHP[2], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="upsngrightdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12888,10 +12889,10 @@ SHP[1], 3
 SHP[2], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="uring">
+
 /* VTTTalk Unicode 0x16f */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -12902,10 +12903,10 @@ SVTCA[Y]
 CALL[], 35, 20, 1, 1, 60, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="utilde">
+
 /* VTTTalk Unicode 0x169 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -12915,10 +12916,10 @@ OFFSET[R], 901, -10, 0
 SVTCA[Y]
 CALL[], 39, 20, 1, 1, 117, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="v">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -12929,10 +12930,10 @@ IP[], 3
 IP[], 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertdblhorzsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12950,10 +12951,10 @@ SHP[1], 10
 SHP[2], 16
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertdblleftsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12966,10 +12967,10 @@ SHP[1], 9
 SHP[2], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertdblrightsngbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12982,10 +12983,10 @@ SHP[1], 6
 SHP[2], 11
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertheavyhorzlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -12998,10 +12999,10 @@ SRP1[], 3
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertheavyleftlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -13011,10 +13012,10 @@ MDAP[R], 2
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertheavyrightlightbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -13024,40 +13025,40 @@ MDAP[R], 6
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertlighthorzheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertlightleftheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 5
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertlightrightheavybxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
 MDAP[R], 1
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertsnghorzdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -13074,10 +13075,10 @@ SHP[1], 11
 MDAP[R], 9
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertsngleftdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -13092,10 +13093,10 @@ SRP1[], 5
 SHP[1], 8
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="vertsngrightdblbxd">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MDAP[R], 0
@@ -13110,10 +13111,10 @@ SRP1[], 6
 SHP[1], 3
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="w">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -13126,10 +13127,10 @@ SLOOP[], 3
 IP[], 3, 6, 19
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="wacute">
+
 /* VTTTalk Unicode 0x1e83 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13139,10 +13140,10 @@ OFFSET[R], 894, -11, 0
 SVTCA[Y]
 CALL[], 21, 12, 1, 1, 50, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="wcircumflex">
+
 /* VTTTalk Unicode 0x175 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13152,10 +13153,10 @@ OFFSET[R], 897, 0, 0
 SVTCA[Y]
 CALL[], 21, 1, 1, 1, 54, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="wdieresis">
+
 /* VTTTalk Unicode 0x1e85 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13166,10 +13167,10 @@ SVTCA[Y]
 CALL[], 21, 1, 1, 1, 107, 86
 SHC[2], 1
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="wgrave">
+
 /* VTTTalk Unicode 0x1e81 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13179,10 +13180,10 @@ OFFSET[R], 893, -11, 0
 SVTCA[Y]
 CALL[], 21, 12, 1, 1, 50, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="x">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 10, 114
@@ -13194,10 +13195,10 @@ SLOOP[], 4
 IP[], 10, 1, 7, 4
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="y">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 28, 15, 114
@@ -13209,10 +13210,10 @@ SLOOP[], 4
 IP[], 25, 32, 16, 31
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="yacute">
+
 /* VTTTalk Unicode 0xfd */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13222,10 +13223,10 @@ OFFSET[R], 894, -8, 0
 SVTCA[Y]
 CALL[], 33, 20, 1, 1, 50, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ycircumflex">
+
 /* VTTTalk Unicode 0x177 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13235,10 +13236,10 @@ OFFSET[R], 897, 3, 0
 SVTCA[Y]
 CALL[], 33, 29, 1, 1, 54, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="ydieresis">
+
 /* VTTTalk Unicode 0xff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13249,10 +13250,10 @@ SVTCA[Y]
 CALL[], 33, 29, 1, 1, 107, 86
 SHC[2], 2
 SHC[2], 3
-
     </glyphProgram>
 
     <glyphProgram name="yen">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 MIAP[R], 17, 12
@@ -13279,10 +13280,10 @@ SRP1[], 1
 SHP[1], 7
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="ygrave">
+
 /* VTTTalk Unicode 0x1ef3 */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13292,10 +13293,10 @@ OFFSET[R], 893, -8, 0
 SVTCA[Y]
 CALL[], 33, 20, 1, 1, 50, 86
 SHC[2], 2
-
     </glyphProgram>
 
     <glyphProgram name="z">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 3, 6, 114
@@ -13308,10 +13309,10 @@ SRP1[], 6
 SHP[1], 0
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="zacute">
+
 /* VTTTalk Unicode 0x17a */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13321,10 +13322,10 @@ OFFSET[R], 894, -11, 0
 SVTCA[Y]
 CALL[], 15, 3, 1, 1, 50, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="zcaron">
+
 /* VTTTalk Unicode 0x17e */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13334,10 +13335,10 @@ OFFSET[R], 898, -6, 0
 SVTCA[Y]
 CALL[], 20, 3, 1, 1, 57, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="zdotaccent">
+
 /* VTTTalk Unicode 0x17c */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
@@ -13347,10 +13348,10 @@ OFFSET[R], 918, 0, 0
 SVTCA[Y]
 CALL[], 15, 3, 1, 1, 96, 86
 SHC[2], 1
-
     </glyphProgram>
 
     <glyphProgram name="zero">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 4, 13, 114
@@ -13365,64 +13366,64 @@ SRP1[], 1
 SHP[1], 2
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="zero.dnom">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 486, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="zero.dnom.ss02">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 533, 0, -262
-
     </glyphProgram>
 
     <glyphProgram name="zero.dnom.zero">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 534, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="zero.numr">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 516, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="zero.numr.ss02">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 533, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="zero.numr.zero">
+
 /* VTTTalk Unicode 0xffff */
 /* ACT generated Wed Jan 15 15:35:14 2020 */
 
 USEMYMETRICS[]
 OFFSET[R], 537, 0, 0
-
     </glyphProgram>
 
     <glyphProgram name="zero.ss02">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 0, 13, 114
@@ -13431,10 +13432,10 @@ CALL[], 8, 5, 114
 SHP[2], 24
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <glyphProgram name="zero.zero">
+
 /* VTT 6.32 compiler */
 SVTCA[Y]
 CALL[], 12, 13, 114
@@ -13447,7 +13448,6 @@ MDAP[R], 0
 SHP[1], 6
 IUP[Y]
 IUP[X]
-
     </glyphProgram>
 
     <extraProgram name="cvt">
@@ -19339,6 +19339,7 @@ RTG[]
     </extraProgram>
 
   </TSI1>
+
 
   <TSI3>
 

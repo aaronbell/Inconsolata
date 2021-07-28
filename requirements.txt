@@ -1,4 +1,3 @@
-fontmake==2.0.7
-gftools
-statmake
-git+https://github.com/daltonmaag/vttLib.git
+fontmake>=2.4
+fontbakery>=0.7
+gftools>=0.7

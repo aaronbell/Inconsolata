@@ -1,0 +1,48 @@
+sources:
+  - Inconsolata.glyphs
+axisOrder:
+  - wdth
+  - wght
+familyName: Inconsolata
+stat:
+  Inconsolata[wdth,wght].ttf:
+  - name: Width
+    tag: wdth
+    values:
+    - name: UltraCondensed
+      value: 50
+    - name: Condensed
+      value: 75
+    - name: SemiCondensed
+      value: 87.5
+    - name: Normal
+      value: 100
+      flags: 2
+    - name: SemiExpanded
+      value: 112.5
+    - name: Expanded
+      value: 125
+    - name: UltraExpanded
+      value: 200
+  - name: Weight
+    tag: wght
+    values:
+    - name: ExtraLight
+      value: 200
+    - name: Light
+      value: 300
+    - name: Regular
+      value: 400
+      linkedValue: 700
+      flags: 2
+    - name: Medium
+      value: 500
+    - name: SemiBold
+      value: 600
+    - name: Bold
+      value: 700
+    - name: ExtraBold
+      value: 800
+    - name: Black
+      value: 900
+flattenComponents: False
