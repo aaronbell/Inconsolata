@@ -12,42 +12,38 @@ Inconsolata includes ligatures for a few JavaScript operators:
   width = "404" height = "276"
 />
 
-They are available in two families.
-
 - **"Inconsolata"** exposes the ligatures as `dlig`.  These are disabled by default, and probably won't show up in your editor.  You can enable them in CSS with this rule:
    ```css
   font-variant-ligatures: discretionary-ligatures;
   ```
-- **"Ligconsolata"** exposes the ligatures as `liga`.  These are enabled by default.  This is the family you should use in your text editor.
 
-Note: the Ligconsolata variant has not yet been upgraded to version 3.000, as we're prioritizing the non-ligature variants.
+(*note* for the purposes of this repository, Ligconsolata has been disabled)
 
-## Building the family
+## Building
 
-Family is built using Glyphs, fontmake and gftools post processing script. Tools are all python based.
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
 
-To install all the Python tools into a virtualenv, do the following:
+If you particularly want to build fonts manually on your own computer, you will need to install the [`yq` utility](https://github.com/mikefarah/yq). On OS X with Homebrew, type `brew install yq`; on Linux, try `snap install yq`; if all else fails, try the instructions on the linked page.
 
-```
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+Then:
 
-To build the fonts we must load sources/Inconsolata-vf.glyphs in Glyphs and do the following:
+* `make build` will produce font files.
+* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make proof` will generate HTML proof files.
+
+Note – if you update the source files, they must be prepped before the build will accept them:
+
+To prep the source we must load sources/Inconsolata-source.glyphs in Glyphs and do the following:
 - Run the decompose-transformed-components.py script
 - Run the gen_instances.py script
 - Run the inco_fix.py script
-- Save the file back in the sources directory with the filename "prod.glyphs"
+- Save the file in the sources directory with the filename "Inconsolata.glyphs"
 
-We can now run the build script in the terminal:
+## License
 
-```
-cd sources # script needs to be run from sources dir
-sh build.sh
-```
-
-Fonts will take approximately 25 minutes to build.
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at
+http://scripts.sil.org/OFL
 
 ## Changelog v.3.000
 
@@ -80,90 +76,6 @@ Further reading: Inconsolata expansion project thread on [Google Fonts Discussio
 * GF Latin Pro
 
 ![Inconsolata Preview](documentation/img/inco-preview.png)
-
-## License
-
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied below, and is also available with a FAQ at:
-[http://scripts.sil.org/OFL][4]
-
-----
-
-## Inconsolata Build Instructions
-
-Inconsolata fonts can be built using either export from Glyphs or using [fontmake]. The font files committed to this repo are done using fontmake.
-
-### Source Files
-
-Inconsolata source files are available in `.glyphs` format located in the `/sources` directory.
-
-### Adding ligatures
-
-1. Follow the ["Creating the ligature"](https://glyphsapp.com/tutorials/ligatures) section of the Glyphs ligatures tutorial.
-2. Name your new glyph with the suffix `.dlig`, for instance `bar_greater.dlig`.
-3. Open the _Font Info_ panel.
-   1. Switch to the _Features_ tab.
-   2. Click _dlig_ in the sidebar.
-   3. Click the _Update_ button at the bottom of the panel.
-   4. Switch to the _Instances_ tab.
-   5. Update the _Rename Glyphs_ value for "Ligconsolata Regular" to include a new line for your new glyph, for instance:
-      ```
-      bar_greater.dlig=bar_greater.liga
-      ```
-   6. Update the _Rename Glyphs_ value for "Ligconsolata Bold".
-4. Export the font, as explained below.
-
-### Exporting a variable font using fontmake
-
-It's possible to export the project as a single variable font. It's just a bit tricky, because the font uses components with varying 2x2 components, triggering a [bug](https://github.com/googlefonts/fontmake/issues/595) which is present in both [fontmake] and Glyphs export. Thus, there's an inco_fix.py script in the sources directory that detects this case and decomposes just those components. Run that script before exporting. The script also decomposes corner components, which makes the resulting `glyphs` file suitable for fontmake export as well (fontmake currently has no support for corner components).
-
-You can copy the script into the Scripts folder for Glyphs, which will make it available in the Script menu, or you can just copy it into the Macro Panel.
-
-After running the script, the following fontmake invocation will generate a variable font:
-
-```
-fontmake -g sources/Inconsolata-vf.glyphs -o variable
-```
-
-This is the version in the fonts/ directory, as it is slightly smaller than the version generated by Glyphs.
-
-We do not check the *result* of the inco_fix script into version control, as we want to preserve editability. It's entirely possible that a future version of fontmake (or Glyphs itself) will be able to handle the source file without running a script.
-
-### Exporting instances using fontmake
-
-The source file contains 15 instances, including all weights of the normal (100) width, and also all masters. This is a reasonable complement for working on the font. Run the gen_instances.py script to generate a total of 72 instances; all combinations of the weights from 200 to 900, and widths 50, 70, 80, 90, 110, 120, 150, and 200.
-
-There are two other instances for Ligconsolata, and fontmake will attempt to generate those, but the "Rename Glyphs" custom parameter doesn't seem to be respected by fontmake, so these won't have ligatures enabled. Use the Glyphs export instead (detailed below).
-
-Then run this command to generate OTF:
-
-```
-fontmake -g sources/Inconsolata-vf.glyphs -i -o otf
-```
-
-And this command to generate autohinted TTF:
-
-```
-fontmake -g sources/Inconsolata-vf.glyphs -i -o ttf -a
-```
-
-These are the versions in the fonts/ directory.
-
-### Font Export options (from Glyphs)
-
-This is the preferred way to generate the Ligconsolata instances, but
-
-* TTF and OTF files should be exported into `/fonts/ttf` and `/fonts/otf` folders.
-
-* `TTFs` should be generated from Glyphs App with `Autohint` option checked. At the moment there is no custom build script required to produce font files, since default TTFautohinting options suffice.
-
-![Font Export Options](documentation/font-export.png)
-
-* `OTFs` should be generated with these options:
-  * [X] Remove Overlap
-  * [X] Autohint
-  * [ ] Save as TTF
-  * [X] Export destination: $REPO_PATH/fonts/otf
 
 ### Future work
 
